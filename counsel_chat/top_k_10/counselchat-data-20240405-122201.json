@@ -1,0 +1,472 @@
+[
+    {
+        "question": "My wife and mother are having tense disagreements and it's affecting our family. What can I do?",
+        "source_sentence": [
+            " To add onto my previous statement, one approach to handling disagreements between loved ones can also include practicing active listening skills. Active listening involves giving full attention to the speaker by maintaining eye contact, providing verbal cues such as \"uh huh\" or nodding, reflectively summarizing what was said, and avoiding interrupting. By showing genuine interest and attentiveness during conversations, individuals can improve communication and reduce misunderstandings leading to fewer conflicts. Additionally, taking breaks from heated discussions and engaging in calming activities may help cool down emotions before returning to the conversation. Remember that relationships require effort from all parties involved, and effective communication and conflict resolution strategies go hand in hand with building stronger bonds.\n         \n          To add onto my previous statement, one approach to handling disagreements between loved ones can also include practicing active listening skills. Active listening involves giving full attention to the speaker by maintaining eye contact, providing verbal cues such as “uh huh” or nodding, reflectively summarizing what was said, and avoiding interrupting. By showing genuine interest and attentiveness during conversations, individuals can improve communication and reduce misunderstandings leading to fewer conflicts. Additionally, taking breaks from heated discussions and engaging in calming activities may help cool down emotions before returning to the conversation. Remember that relationships require effort from all parties involved, and effective communication and conflict resolution strategies go hand in hand with building stronger bonds.\n          \n            To add onto my previous statements, another important aspect when dealing with familial conflicts is recognizing emotional triggers that contribute to arguments and negative patterns. Understanding these triggers allows us to respond thoughtfully instead of reacting impulsively, reducing the likelihood of escalating disputes. Furthermore, acknowledging feelings of hurt, frustration, anger, or sadness in ourselves and others can lead to greater compassion and empathy towards resolving underlying issues. Practicing self-care and seeking professional therapy if necessary can further equip individuals with valuable tools to navigate through challenging interpersonal dynamics.\n              \n              To add onto my previous statements, another important aspect when dealing with familial conflicts is recognizing emotional triggers that contribute to arguments and negative patterns. Understanding these triggers allows us to respond thoughtfully instead of reacting impulsively, reducing the likelihood of escalating disputes. Furthermore, acknowledging feelings of hurt, frustration, anger, or sadness in ourselves and others can lead to greater compassion and empathy"
+        ],
+        "sentences": [
+            "What you are describing is something psychologists call triangulation. It's a scenario where two parties in conflict attempt to bring in a third party to mediate or take sides. It's important for you to communicate your feelings about being put in the middle."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 1718,
+                    "total_tokens": 2218
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0899999970480001,
+                            "p": 0.054878048780487805,
+                            "r": 0.25
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.0899999970480001,
+                            "p": 0.054878048780487805,
+                            "r": 0.25
+                        }
+                    },
+                    "metor": 0.15,
+                    "bert": {
+                        "Precision": 0.7492800951004028,
+                        "Recall": 0.8332387208938599,
+                        "F1": 0.7890322804450989
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "I'm planning to have a baby, so I have to quit smoking. How can I stop?",
+        "source_sentence": [
+            "1. Acknowledge the challenge - Smoking is a tough habit to break and it's normal to experience difficulty along the way.\n        2. Create a support system - Having people around you who understand what you're going through and can offer encouragement can be a powerful tool in overcoming nicotine addiction. Consider reaching out to family members, close friends, or joining a local support group.\n        3. Find healthy alternatives - Identifying alternative activities that bring you joy and satisfaction can help fill the void left by smoking. These could include things like reading, painting, taking long walks, practicing deep breathing exercises, or engaging in hobbies that require concentration.\n        4. Manage stress effectively - Nicotine is often used as a coping mechanism for dealing with stress and anxiety. Finding healthy ways to manage these feelings can reduce the desire to reach for a cigarette. Techniques such as meditation, exercise, yoga, or talking to a therapist can be beneficial.\n        5. Break the routine - Smoking becomes a part of daily routines, making it harder to quit. By breaking the routine and avoiding triggers, you can decrease the likelihood of relapsing. For example, instead of smoking after dinner, take a walk, or read a book.\n        6. Be kind to yourself - Quitting smoking is a process and setbacks are inevitable. Instead of beating yourself up over mistakes, try approaching them as learning opportunities. Remind yourself that progress takes time and celebrate small wins along the way.\n        7. Stay focused on your why - Keeping your end goal in mind can help you stay motivated during challenging moments. Remembering the reasons for wanting to quit (such as protecting the health of your future child) can serve as a source of strength and determination."
+        ],
+        "sentences": [
+            "Hi. Good for you in planning ahead to do what's best for your future child. Understanding your triggers for smoking and finding healthier ways to cope can be a good start."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 371,
+                    "prompt_tokens": 2952,
+                    "total_tokens": 3323
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10526315580678675,
+                            "p": 0.05970149253731343,
+                            "r": 0.4444444444444444
+                        },
+                        "rouge-2": {
+                            "f": 0.02597402421571947,
+                            "p": 0.014388489208633094,
+                            "r": 0.13333333333333333
+                        },
+                        "rouge-l": {
+                            "f": 0.10526315580678675,
+                            "p": 0.05970149253731343,
+                            "r": 0.4444444444444444
+                        }
+                    },
+                    "metor": 0.24,
+                    "bert": {
+                        "Precision": 0.7926388382911682,
+                        "Recall": 0.8791427612304688,
+                        "F1": 0.8336527943611145
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "I have secrets in my mind, and I don't know whether I should share them with my family or not.",
+        "source_sentence": [
+            "1. Fear Of Rejection - You might worry that your parents won’t accept or love you anymore, especially if the secret relates to something perceived as shameful or embarrassing. In turn, you may avoid sharing the secret out of concern for losing their approval.\n            * Validation: I understand that revealing such sensitive information can be intimidating and potentially lead to uncomfortable conversations or emotional responses from others. However, remember that true acceptance comes when people see us in our authenticity rather than judging us by our mistakes or imperfections.\n                + Exploring past experiences where you felt accepted despite sharing vulnerable moments with others could reinforce this understanding and build confidence in doing so again.\n                    * Reflection Exercise: Think back to times when you opened up to friends or loved ones and they reacted with kindness and compassion towards you, creating a deeper bond between both parties. Recall those positive interactions and allow yourself to acknowledge how valuable and healing they were.\n          \n        2. Feeling Unworthy/Undeserving Of Love And Support - The belief that sharing a secret will negatively impact relationships or cause harm can lead some individuals to believe they aren’t worthy or deserving enough of love and support from others.\n            * Self-compassionate Response: Remember that no one is perfect, and everyone goes through struggles in life. Sharing vulnerabilities fosters greater trust and intimacy within relationships, ultimately strengthening bonds between people.\n                + Emphasize self-care during this process, focusing on activities that promote personal growth and overall wellbeing.\n                    * Self-Care Tips: Schedule daily relaxation activities (e.g., reading, taking a bath), practice stress management techniques (such as deep breathing or meditation), and maintain a balanced diet and exercise routine. These actions contribute positively to both mental and physical health while encouraging resilience and self-confidence.\n          \n        3. Misconception About Secrets Being A Burden To Others - Sometimes, individuals believe that sharing secrets will put unnecessary burdens upon others or disrupt their lives in unfavorable ways.\n            * Empathy Towards Family Members: Understand that every individual carries unique perspectives and coping abilities when faced with challenging situations or information. Your parents may actually appreciate being involved in helping resolve issues or offering reassurance and encouragement.\n                + Encouraging open"
+        ],
+        "sentences": [
+            "It sounds like keeping the secrets has become a burden for you. Sharing might help relieve some of that weight, but consider the potential impacts on your relationships."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 1578,
+                    "total_tokens": 2078
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0872483204997523,
+                            "p": 0.04797047970479705,
+                            "r": 0.48148148148148145
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.07382550170780598,
+                            "p": 0.04059040590405904,
+                            "r": 0.4074074074074074
+                        }
+                    },
+                    "metor": 0.19,
+                    "bert": {
+                        "Precision": 0.7345664501190186,
+                        "Recall": 0.8599754571914673,
+                        "F1": 0.7923392653465271
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "I am extremely possessive in my relationships and it's causing problems. How can I change?",
+        "source_sentence": [
+            " Hello! It takes courage to acknowledge and address negative patterns in our behavior towards others. In this case, it seems like you're experiencing possessiveness in your romantic relationships which is leading to conflicts with your partners.\n         \n         Firstly, let's validate the feelings behind your possessiveness. Often times, these behaviors stem from deeper emotional needs such as security, attachment, or fear of abandonment. Understanding why you feel the urge to be possessive will give you valuable insight into the situation and allow you to approach it with compassion and patience towards yourself.\n         \n         Next, practicing self-reflection and mindfulness can be helpful tools in managing your thoughts and reactions. When you notice yourself becoming possessive, take a moment to pause and observe the sensation in your body. Acknowledge the feeling without judgment and reflect on its origins. This practice can help reduce reactivity and increase awareness of your thought processes.\n         \n         Communication plays a significant role in any relationship dynamic. Consider sharing your feelings with your partner in a non-accusatory manner. Express your concern for the relationship and discuss ways both parties could improve communication and trust. Remember, effective communication requires active listening and openness to feedback.\n         \n         Lastly, seeking professional assistance through counseling or therapy can provide additional support and guidance during this personal growth journey. A mental health professional can offer objective perspective and evidence-based techniques to help manage intense emotions and cultivate healthy relational dynamics.\n\n         I hope this information is helpful for you and encourages you to continue on your path towards greater self-awareness and improved interpersonal relationships. Best wishes on your journey!"
+        ],
+        "sentences": [
+            "Hi there. It's great you are able to realize this trait about yourself. Understanding the root causes of your possessiveness, such as past traumas or insecurities, can help in addressing it."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 342,
+                    "prompt_tokens": 2784,
+                    "total_tokens": 3126
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.13888888643046984,
+                            "p": 0.08108108108108109,
+                            "r": 0.4838709677419355
+                        },
+                        "rouge-2": {
+                            "f": 0.02105262969529103,
+                            "p": 0.011764705882352941,
+                            "r": 0.1
+                        },
+                        "rouge-l": {
+                            "f": 0.12962962717121063,
+                            "p": 0.07567567567567568,
+                            "r": 0.45161290322580644
+                        }
+                    },
+                    "metor": 0.24,
+                    "bert": {
+                        "Precision": 0.7808035612106323,
+                        "Recall": 0.8878049254417419,
+                        "F1": 0.8308734893798828
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "I had a head injury a few years ago and my mind hasn't been the same since. Can I control anxiety without medication?",
+        "source_sentence": [
+            "1. Practice grounding techniques daily - these include focused breathing, progressive muscle relaxation, visualization, and engaging senses fully in present moment activities. These practices will help train your brain to focus more easily on the current moment instead of getting lost in anxious thought spirals.\n        2. Challenge negative thoughts - every time you notice yourself thinking something unhelpful or pessimistic, ask yourself evidence against it, try rephrasing it into a positive perspective, and remind yourself that emotions aren’t facts. Over time you will build stronger neural connections towards positive thinking which will lessen overall anxiety levels.\n        3. Engage in regular physical activity - exercise increases production of mood regulating chemicals known as neurotransmitters while reducing cortisol levels. Aim for at least 30 minutes most days of the week.\n        4. Connect socially - building supportive relationships with friends, family members, or community groups can greatly improve feelings of self worth and decrease feelings of loneliness which often exacerbate anxiety.\n        5. Get adequate sleep - lack of rest disrupts cognitive function and emotional balance making managing anxiety much harder. Ensure consistent bedtime routine, limit caffeine intake and avoid screens before bed.\n        6. Mindfulness practices - practicing mindfulness through meditation, yoga, or journaling allows us to learn detachment from thoughts and emotions, enabling better management of anxiety symptoms. \n        7. Avoid triggers - identify patterns or situations that consistently trigger heightened anxiety responses and work to minimize exposure to them. For example, avoiding crowded spaces during peak hour traffic if large crowds increase your heart rate significantly.\n        8. Seek Professional Help - speaking openly with a licensed therapist can lead to significant progress in understanding and managing anxiety. They offer safe environments for exploring fears and developing coping skills. Additionally, working alongside a psychiatrist to determine appropriate medication could further aid in symptom reduction.\n\n         I want to emphasize that seeking professional help and support is crucial when dealing with anxiety especially after a head injury as the two issues can sometimes intertwine leading to additional challenges in managing anxiety. Remember, you're not alone in facing these struggles and there are plenty of resources available to assist you along this journey towards improved mental health! Best wishes for your healing process."
+        ],
+        "sentences": [
+            "You didn't say what or how many medications you've tried. There are non-medication strategies like cognitive behavioral therapy, mindfulness, and exercise that can help manage anxiety."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 476,
+                    "prompt_tokens": 1815,
+                    "total_tokens": 2291
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.058441556895766605,
+                            "p": 0.031914893617021274,
+                            "r": 0.34615384615384615
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.05194805040226013,
+                            "p": 0.028368794326241134,
+                            "r": 0.3076923076923077
+                        }
+                    },
+                    "metor": 0.19,
+                    "bert": {
+                        "Precision": 0.7725823521614075,
+                        "Recall": 0.8562334179878235,
+                        "F1": 0.8122598528862
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "I want a secure relationship with someone that I'm truly in love with. How can I achieve this?",
+        "source_sentence": [
+            " To build a secure and fulfilling relationship with someone you deeply love, consider focusing on open communication, active listening, and mutual respect. Remember that every relationship goes through ups and downs, so be patient and persistent in working through any challenges that arise. Additionally, practicing self-care and seeking therapy when necessary can help strengthen your emotional resilience and improve your overall wellbeing. And always remember that true love takes time and effort to cultivate – but the rewards are worth it."
+        ],
+        "sentences": [
+            "It is a good thing that you have recognized the pattern in your relationships. Building a secure relationship starts with understanding your own attachment style and working on areas that might lead to insecurities."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 100,
+                    "prompt_tokens": 1207,
+                    "total_tokens": 1307
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.2574257383197726,
+                            "p": 0.18571428571428572,
+                            "r": 0.41935483870967744
+                        },
+                        "rouge-2": {
+                            "f": 0.01769911090923427,
+                            "p": 0.0125,
+                            "r": 0.030303030303030304
+                        },
+                        "rouge-l": {
+                            "f": 0.2574257383197726,
+                            "p": 0.18571428571428572,
+                            "r": 0.41935483870967744
+                        }
+                    },
+                    "metor": 0.32,
+                    "bert": {
+                        "Precision": 0.8578729033470154,
+                        "Recall": 0.8821567893028259,
+                        "F1": 0.8698453903198242
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "I easily recognize my negative thinking patterns but have no control over them. What can I do?",
+        "source_sentence": [
+            "1. Practice Mindfulness Meditation daily to increase awareness of your thoughts and emotions without judgment. This practice helps train the brain to focus on the present moment instead of dwelling on past regrets or future fears.\n        2. Identify Negative Thought Patterns: Keep a journal or write down negative thoughts as they arise. Analyze the evidence behind each thought. Is it based on facts or just assumptions? Once you become familiar with your negative thought patterns, you can begin to challenge and replace them with more balanced and positive alternatives.\n        3. Challenge Negative Self-Talk: When negative self-talk arises, counteract it with affirmations. For example, instead of saying “I’m such a failure,” say “I made a mistake, but I can learn from it.” Positive affirmations build confidence and resilience.\n        4. Reframe Situations: Change how you perceive situations by looking for the good in them. Focus on what you have learned rather than dwelling on mistakes or losses. Every experience offers an opportunity to gain insight and grow.\n        5. Surround Yourself With Positivity: Spend time with people who uplift and support you. Limit exposure to sources of negativity like news or social media that contribute to anxiety or stress. Nurture relationships with friends and family, engage in activities that bring joy, and cultivate a positive attitude towards life.\n        6. Seek Professional Help: If negative thoughts persist despite efforts to manage them, seek professional help. A mental health counselor, psychologist, or psychiatrist can offer guidance, therapy, and medication options to address underlying mental health conditions contributing to negative thought patterns. Remember, reaching out for help is a sign of strength, not weakness.\n        7. Develop Gratitude Practices: Cultivating gratitude has been shown to improve overall happiness and reduce symptoms of depression and anxiety. Practice expressing appreciation regularly – whether writing in a gratitude journal, sharing thankfulness with others, or simply acknowledging small joys throughout your day.\n        8. Get Enough Sleep: Poor sleep quality can worsen mood disorders, including anxiety and depression. Ensure adequate rest and prioritize sleep hygiene practices, like maintaining a regular bedtime routine, avoiding caffeine late in the day, and reducing screen time before bed.\n        9. Eat Well: Nutritious"
+        ],
+        "sentences": [
+            "I suggest that you work on emotional awareness. Understanding the emotions that trigger these thoughts can help you develop strategies to manage them better."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2708,
+                    "total_tokens": 3208
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0912280687507541,
+                            "p": 0.049429657794676805,
+                            "r": 0.5909090909090909
+                        },
+                        "rouge-2": {
+                            "f": 0.005347592428579848,
+                            "p": 0.002849002849002849,
+                            "r": 0.043478260869565216
+                        },
+                        "rouge-l": {
+                            "f": 0.08421052489110499,
+                            "p": 0.045627376425855515,
+                            "r": 0.5454545454545454
+                        }
+                    },
+                    "metor": 0.17,
+                    "bert": {
+                        "Precision": 0.7760885953903198,
+                        "Recall": 0.881388247013092,
+                        "F1": 0.825393557548523
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "It takes me a long time to fall asleep; I’d estimate around two hours each night. What can I do?",
+        "source_sentence": [
+            " Based on the provided information, here are some therapeutic insights and suggestions related to the user's concern about taking a long time to fall asleep:\n\n1. Establishing a nightly routine: A consistent wind-down routine prior to sleep can signal to the body that it's time to rest. The absence of electronic devices helps reduce exposure to blue light which interferes with melatonin production, making it harder to fall asleep. Engaging in calming activities such as reading a book or taking a warm bath promotes relaxation and makes it easier to transition into sleep mode.\n2. Eliminate caffeine intake: Caffeine acts as a stimulant and can disrupt the ability to fall asleep easily. Ideally, avoiding caffeinated products six hours before bedtime would promote optimal sleep conditions. However, even small quantities consumed late in the day might affect some individuals more than others due to individual differences in sensitivity.\n3. Create a conducive sleep environment: Ensure the room is cool, dark, and quiet while maintaining a comfortable mattress and adequate pillows. These factors contribute significantly towards creating an inviting atmosphere for quality sleep. Making the space enjoyable and cozy encourages the mind and body to relax, allowing for a smoother transition into slumber.\n4. Address underlying anxiety or stressors: Often times, insomnia stems from unresolved emotional issues or stressors that linger in one's consciousness. Engaging in self-compassionate dialogue or talking through feelings with friends, family members, or a mental healthcare professional may offer relief by providing alternative perspectives and encouraging acceptance of difficult emotions rather than suppressing them. Practicing mindfulness meditation or deep breathing techniques also serves as effective tools in managing anxious thoughts and reducing overall tension.\n5. Consider implementing progressive muscle relaxation techniques: Progressive muscle relaxation involves systematically contracting and releasing various muscles throughout the body to release built-up tension. Performing these exercises regularly before bed can lead to greater relaxation both physically and mentally, ultimately improving sleep quality.\n6. Maintain a healthy lifestyle: Regular exercise, balanced nutrition, sufficient hydration, and appropriate sunlight exposure support overall wellbeing. Ensuring proper dietary choices and engaging in frequent physical activity can improve mood, energy levels, and overall vitality - all contributing positively to sleep patterns and reducing the likelihood of sleeplessness.\n7."
+        ],
+        "sentences": [
+            "First of all, exercise is always beneficial for sleep. Also, establishing a consistent bedtime routine and limiting screen time before bed can help improve your sleep quality."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 1256,
+                    "total_tokens": 1756
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10033444657263343,
+                            "p": 0.054945054945054944,
+                            "r": 0.5769230769230769
+                        },
+                        "rouge-2": {
+                            "f": 0.015748030224371663,
+                            "p": 0.008450704225352112,
+                            "r": 0.11538461538461539
+                        },
+                        "rouge-l": {
+                            "f": 0.08695652015122875,
+                            "p": 0.047619047619047616,
+                            "r": 0.5
+                        }
+                    },
+                    "metor": 0.2,
+                    "bert": {
+                        "Precision": 0.8087624311447144,
+                        "Recall": 0.884375810623169,
+                        "F1": 0.8448807597160339
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "What do you do when a therapist and a parent disagree on the direction of a child's treatment?",
+        "source_sentence": [
+            "1. The best approach would be to communicate openly and respectfully with both parties involved - the therapist and the other parent. Try to understand each other’s perspectives and goals for the child's treatment. It might be helpful to set up a meeting or mediation session to discuss the disagreement and come to a mutually acceptable solution. Involving a neutral third party, such as a family mediator, could facilitate productive dialogue and prevent further conflict.<br>2. If open communication fails, document all interactions related to the disagreement, including emails, letters, or phone conversations. This evidence can be presented to professional organizations or authorities if necessary to address any potential ethics violations or breaches of confidentiality by either the therapist or the other parent. Keep in mind that sharing sensitive information publicly or making false allegations can lead to negative consequences and harm relationships with others involved.<br>3. Seek advice from relevant professionals, such as lawyers, mental health experts, or school administrators, who have expertise in handling complex family dynamics and disputes involving children’s wellbeing. Their guidance can provide valuable insight into navigating these challenges while ensuring the best interests of the child remain the priority. Additionally, reaching out to local support groups or online communities specifically designed for parents dealing with similar conflicts may offer understanding, encouragement, and practical strategies to manage difficult situations."
+        ],
+        "sentences": [
+            "I will admit I am confused about this question. The direction of a child's treatment should ideally be a collaborative discussion involving the therapist, the parent, and sometimes even the child."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 281,
+                    "prompt_tokens": 2976,
+                    "total_tokens": 3257
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10101009865472917,
+                            "p": 0.05847953216374269,
+                            "r": 0.37037037037037035
+                        },
+                        "rouge-2": {
+                            "f": 0.016064254908792073,
+                            "p": 0.0091324200913242,
+                            "r": 0.06666666666666667
+                        },
+                        "rouge-l": {
+                            "f": 0.0606060582506888,
+                            "p": 0.03508771929824561,
+                            "r": 0.2222222222222222
+                        }
+                    },
+                    "metor": 0.28,
+                    "bert": {
+                        "Precision": 0.8153969049453735,
+                        "Recall": 0.8740726113319397,
+                        "F1": 0.8437158465385437
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    },
+    {
+        "question": "They're calling me names like hypocrite and a fraud at school. How should I deal with this?",
+        "source_sentence": [
+            "1. Practice positive affirmations daily - Look yourself in the mirror each morning and tell yourself something nice, even if it feels awkward at first. Repeat it often enough until you start believing it. Examples include \"You're smart\", \"You're capable\", etc.\n        2. Surround yourself with positivity - Seek out supportive relationships with friends and family, and try to minimize exposure to negative influences.\n        3. Focus on progress rather than perfection - Understand that mistakes are part of growth and learning, and focus on improving rather than achieving flawlessness.\n        4. Challenge negative thoughts - When negative thoughts arise, challenge them with evidence to the contrary and refocus on positive aspects.\n        5. Take care of yourself physically - Eat well, exercise regularly, get enough sleep, and engage in activities that promote relaxation and stress relief.\n        6. Reframe failure - Instead of viewing failures as personal shortcomings, reframe them as opportunities to learn and grow.\n\nThese steps, taken consistently, can lead to increased confidence and reduced feelings of impostorism. Remember, you are worthy just as you are, regardless of what others (including yourself) may say. Best of luck on your journey towards greater self-acceptance and success! \n        1. Practice positive affirmations daily - Look yourself in the mirror each morning and tell yourself something nice, even if it feels awkward at first. Repeat it often enough until you start believing it. Examples include \"You're smart\", \"You're capable\", etc.\n        2. Surround yourself with positivity - Seek out supportive relationships with friends and family, and try to minimize exposure to negative influences.\n        3. Focus on progress rather than perfection - Understand that mistakes are part of growth and learning, and focus on improving rather than achieving flawlessness.\n        4. Challenge negative thoughts - When negative thoughts arise, challenge them with evidence to the contrary and refocus on positive aspects.\n        5. Take care of yourself physically - Eat well, exercise regularly, get enough sleep, and engage in activities that promote relaxation and stress relief.\n        6. Reframe failure - Instead of viewing failures as personal shortcomings, reframe them as opportunities to learn and grow.\n\nThese steps, taken consistently, can lead to increased confidence and reduced feelings of impostorism. Remember, you are worthy"
+        ],
+        "sentences": [
+            "It sounds like you're confused as to why your friends would call you these names. Reflecting on your actions and having open conversations with them might help clear up any misunderstandings."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2278,
+                    "total_tokens": 2778
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10465115991076267,
+                            "p": 0.06338028169014084,
+                            "r": 0.3
+                        },
+                        "rouge-2": {
+                            "f": 0.009049771409267413,
+                            "p": 0.005235602094240838,
+                            "r": 0.03333333333333333
+                        },
+                        "rouge-l": {
+                            "f": 0.10465115991076267,
+                            "p": 0.06338028169014084,
+                            "r": 0.3
+                        }
+                    },
+                    "metor": 0.14,
+                    "bert": {
+                        "Precision": 0.7379692792892456,
+                        "Recall": 0.8294002413749695,
+                        "F1": 0.7810179591178894
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240405-122201"
+    }
+]

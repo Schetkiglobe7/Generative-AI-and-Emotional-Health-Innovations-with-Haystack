@@ -1,0 +1,472 @@
+[
+    {
+        "question": "I'm going through some things with my feelings and myself. I've talked to many people but I can't seem to talk to my parents about it. I've thought about suicide but I don't want to worry anyone. What should I do?",
+        "source_sentence": [
+            "1. Start small - Begin by bringing up minor issues first, like how stressed you've felt recently or how overwhelmed life feels. Then gradually introduce bigger topics as you gain confidence and your parents become more receptive.\n        2. Practice active listening - Make sure your parents truly understand your perspective before reacting. Ask questions to clarify doubts, repeat key phrases back to show understanding and summarize main points regularly to keep everyone aligned.\n        3. Share personal experiences rather than abstract theories – Personal stories often resonate deeply with listeners and can foster stronger emotional connections.\n        4. Validate their emotions while expressing yours – Acknowledge their reactions and feelings towards the subject matter while being genuine about your own emotions.\n        5. Offer potential solutions – Present practical ideas on how they can support you during this challenging phase without making assumptions about what’s best for you.\n        6. Keep communication consistent – Regularly check-in with them and maintain transparency throughout the journey towards healing.\n        7. Be patient – Remember that change takes time and effort from all parties involved. Allow your parents adequate space to adjust and process complex emotions.\n\n        I am so glad you reached out today. While speaking openly about your struggles isn't always easy, it is an essential step towards growth and recovery. Trusting loved ones and seeking their support can greatly improve our overall sense of wellbeing.\n        Wishing you strength and courage in sharing your story. Don't forget, reaching out shows tremendous bravery and vulnerability. Embrace the power within yourself to heal and grow.\n        Remember, you are worthy of love, compassion and care regardless of your circumstances. Reach out for support whenever needed. Take one day at a time, focus on self-care activities and celebrate progress along the way.\n        Sending positivity and warmth your way, dear stranger. May your days be filled with moments of happiness and growth as you navigate through this chapter of your life."
+        ],
+        "sentences": [
+            "If everyone thinks you're worthless, then maybe you could benefit from some counseling to help you understand why you feel this way about yourself. It's very important to understand the root of your feelings in order to begin changing them."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 410,
+                    "prompt_tokens": 4708,
+                    "total_tokens": 5118
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10714285495535718,
+                            "p": 0.061224489795918366,
+                            "r": 0.42857142857142855
+                        },
+                        "rouge-2": {
+                            "f": 0.005681816211422429,
+                            "p": 0.003194888178913738,
+                            "r": 0.02564102564102564
+                        },
+                        "rouge-l": {
+                            "f": 0.09285714066964292,
+                            "p": 0.053061224489795916,
+                            "r": 0.37142857142857144
+                        }
+                    },
+                    "metor": 0.23,
+                    "bert": {
+                        "Precision": 0.7682317495346069,
+                        "Recall": 0.8540681004524231,
+                        "F1": 0.8088790774345398
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I have so many issues to address. I have a history of child abuse, domestic violence, and betrayal by family members. I also struggle with addiction. I am overwhelmed and don't know where to start. Can you help?",
+        "source_sentence": [
+            "1. Acknowledge and accept your feelings: Allow yourself to feel the emotions without judgment. This acceptance is essential because it sets the foundation for growth and understanding.\n        \n        2. Practice mindfulness meditation: Mindfulness practices like deep breathing exercises can help reduce stress, improve focus and attention span while calming the body and mind. Practicing regularly can lead to long term benefits.\n        \n        3. Find safe ways to express negative emotions: Write in a journal, talk about your feelings with supportive friends, attend therapy sessions, or try art therapy - any approach that feels right for you. Expressing emotions helps process them and reduces their intensity over time.\n        \n        4. Stay connected with others: Social connections play a vital role in reducing stress and promoting positive emotions. Connecting with supportive people and building strong relationships provides comfort, validation, and encouragement during difficult times.\n        \n        5. Engage in healthy behaviors: Regular exercise, balanced diet, sufficient sleep, staying hydrated, engaging in hobbies or interests, and practicing gratitude are excellent ways to maintain optimal physical and emotional health. These habits promote relaxation, boost mood, and enhance overall well-being.\n        \nAs a Therapy Guide, my suggestion for helping you manage through overwhelming situations involves:\n\n        1. Breaking tasks into smaller steps: Instead of focusing on the entire challenge at once, break it down into small, manageable goals. Focusing on progress rather than perfection allows for a sense of accomplishment and motivation.\n        \n        2. Setting realistic expectations: Recognize that change takes time and effort. Adopt a \"growth mindset\" that accepts challenges, perspectives, mistakes, and feedback as opportunities to learn and grow instead of threats to your identity.\n        \n        3. Fostering resilience: Develop skills to adapt and recover from adversity by practicing forgiveness, perspective-taking, patience, humor, optimism, flexibility, and effective communication. Cultivating these qualities improves your ability to cope effectively in the face of challenges.\n        \nPlease remember that everyone’s experiences with trauma and addiction are unique, and there is no “one size fits all” solution. Embrace compassion and self-acceptance throughout your journey toward healing and recovery."
+        ],
+        "sentences": [
+            "Let me start by saying there are never too many issues that you can address with counseling. However, it is important to start with one at a time. Starting with the one that is most pressing can help reduce your feelings of being overwhelmed."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 477,
+                    "prompt_tokens": 3220,
+                    "total_tokens": 3697
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1288135571281816,
+                            "p": 0.07364341085271318,
+                            "r": 0.5135135135135135
+                        },
+                        "rouge-2": {
+                            "f": 0.01617250468915538,
+                            "p": 0.009146341463414634,
+                            "r": 0.06976744186046512
+                        },
+                        "rouge-l": {
+                            "f": 0.10847457407733414,
+                            "p": 0.06201550387596899,
+                            "r": 0.43243243243243246
+                        }
+                    },
+                    "metor": 0.22,
+                    "bert": {
+                        "Precision": 0.7463783025741577,
+                        "Recall": 0.8471354246139526,
+                        "F1": 0.7935714721679688
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I have been feeling more and more down for over a year. I've seen therapists but nothing seems to help. I'm losing hope. What else can I do?",
+        "source_sentence": [
+            "------------------------------\n\n        Based on the provided text, I cannot directly answer whether the user has mentioned anything specific about not being able to discuss their feelings with their current therapist. However, I can encourage the user to reflect upon this possibility and consider exploring reasons why they might not be feeling comfortable doing so. I recommend practicing self-compassion during this reflection process, reminding oneself that seeking help and expressing vulnerability takes courage and that everyone experiences challenges in communicating openly with others at times. Additionally, the user may benefit from considering alternative methods of expression, such as writing in a journal or engaging in creative activities. The user is encouraged to prioritize their own emotional wellbeing and continue advocating for themselves until they find a therapeutic approach that feels safe and effective. \n\n        Regarding additional suggestions for managing low mood and feelings of hopelessness, I recommend incorporating daily practices that promote overall physical and emotional health, including regular exercise, balanced nutrition, sufficient rest, mindfulness meditation, and connecting with supportive relationships. These habits can contribute positively to mood regulation and foster resilience against future challenges. Engaging in enjoyable activities, setting small achievable goals, and breaking tasks into manageable steps can also be helpful strategies in navigating feelings of overwhelm and increasing feelings of mastery and accomplishment. Remember, even tiny progress toward personal growth and improved mental health is worth celebrating!"
+        ],
+        "sentences": [
+            "sentences about our inner lives are most successfully discovered by oneself. A therapist will guide and suggest directions to consider in finding your sentences."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 289,
+                    "prompt_tokens": 6329,
+                    "total_tokens": 6618
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0714285693570388,
+                            "p": 0.04046242774566474,
+                            "r": 0.30434782608695654
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.06122448772438573,
+                            "p": 0.03468208092485549,
+                            "r": 0.2608695652173913
+                        }
+                    },
+                    "metor": 0.14,
+                    "bert": {
+                        "Precision": 0.7916842103004456,
+                        "Recall": 0.8586729168891907,
+                        "F1": 0.8238189816474915
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I’m facing severe depression and anxiety and I don’t know how to cope with it. What should I do?",
+        "source_sentence": [
+            "1. Practice mindfulness techniques such as meditation, deep breathing, or progressive muscle relaxation. These practices can help you become more aware of your thoughts, feelings, and bodily sensations, allowing you to respond to situations instead of reacting emotionally.\n         2. Engage in activities that bring you joy, whether that's reading, painting, gardening, hiking, or playing an instrument. Doing things that make you feel good can improve your overall sense of wellbeing.\n         3. Reach out to supportive friends, family members, or a mental health professional when you need help or guidance. Having a strong network of connections can make all the difference during times of emotional distress.\n         4. Set realistic goals and break big projects into smaller tasks. Accomplishing even small achievements can boost your confidence and motivation, helping you feel less overwhelmed and stuck.\n         5. Take steps to maintain good physical health by getting regular exercise, eating nutritious foods, and staying hydrated. Taking care of yourself physically can contribute to better mental health. \n         It sounds like you're experiencing some intense feelings of sadness, hopelessness, and perhaps even worthlessness. While I can't directly address your specific situation without knowing more details, I can suggest some general strategies that may help you cope with your feelings.\n\nFirst and foremost, reaching out for support is crucial. Consider speaking with a trusted friend, family member, or mental health professional. Sometimes simply sharing your thoughts and feelings with another person can provide relief and perspective.\n\nSecondly, focusing on self-care can be beneficial. Try engaging in activities that you enjoy and that promote relaxation, such as taking a warm bath, reading a good book, practicing mindfulness techniques like meditation or deep breathing, or participating in gentle exercise like walking or yoga. Remember, taking care of yourself isn't selfish; it's essential for maintaining good mental health.\n\nAdditionally, setting small, achievable goals for yourself can be empowering. Break larger tasks into manageable pieces and focus on accomplishing each step, rather than dwelling on the overwhelming nature of the project as a whole. Celebrate your successes along the way.\n\nLastly, if your negative thoughts persist despite implementing these strategies, consider seeking professional help. A mental health professional can assist you in developing additional coping mechanisms tailored specifically to your needs."
+        ],
+        "sentences": [
+            "Have you used meditation or hypnosis? Relaxing the body and mind on a regular basis reduces anxiety and depression."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 4343,
+                    "total_tokens": 4843
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.06037735722435033,
+                            "p": 0.032388663967611336,
+                            "r": 0.4444444444444444
+                        },
+                        "rouge-2": {
+                            "f": 0.005405404479766411,
+                            "p": 0.002840909090909091,
+                            "r": 0.05555555555555555
+                        },
+                        "rouge-l": {
+                            "f": 0.052830187413029576,
+                            "p": 0.02834008097165992,
+                            "r": 0.3888888888888889
+                        }
+                    },
+                    "metor": 0.1,
+                    "bert": {
+                        "Precision": 0.7755930423736572,
+                        "Recall": 0.868929386138916,
+                        "F1": 0.8196125030517578
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "How can I get to a place where I can be content or at least satisfied with my life?",
+        "source_sentence": [
+            " Consider talking to a trusted adult or counselor if you're really struggling. They can listen and help you come up with strategies for dealing with difficult emotions and situations. Remember, everyone experiences tough times and you're not alone.   \n         Consider talking to a trusted adult or counselor if you're really struggling. They can listen and help you come up with strategies for dealing with difficult emotions and situations. Remember, everyone experiences tough times and you're not alone.    \n         Consider talking to a trusted adult or counselor if you're really struggling. They can listen and help you come up with strategies for dealing with difficult emotions and situations. Remember, everyone experiences tough times and you're not alone.     \n         Consider talking to a trusted adult or counselor if you're really struggling. They can listen and help you come up with strategies for dealing with difficult emotions and situations. Remember, everyone experiences tough times and you're not alone.      \n         Consider talking to a trusted adult or counselor if you're really struggling. They can listen and help you come up with strategies for dealing with difficult emotions and situations. Remember, everyone experiences tough times and you're not alone.         \n         One thing that may help you in your quest for contentment is practicing gratitude. Focus on the things in your life that you are grateful for, rather than dwelling on the things that are making you unhappy. This can be a powerful tool in shifting your perspective and improving your overall mood. Additionally, try to engage in activities that bring you joy, even if they seem small or insignificant. These things can add up over time and contribute to greater feelings of satisfaction and happiness.\n         One thing that may help you in your quest for contentment is practicing gratitude. Focus on the things in your life that you are grateful for, rather than dwelling on the things that are making you unhappy. This can be a powerful tool in shifting your perspective and improving your overall mood. Additionally, try to engage in activities that bring you joy, even if they seem small or insignificant. These things can add up over time and contribute to greater feelings of satisfaction and happiness.           \n         One thing that may help you in your quest for contentment is practicing gratitude. Focus on the things in your life that you are grateful for, rather than dwelling on the things that are making you unhappy. This can be a powerful tool in"
+        ],
+        "sentences": [
+            "Your question is a fascinating one! As humans we have a tendency to always look for something that is missing, or focus on what needs improvement."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2424,
+                    "total_tokens": 2924
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.12499999663265315,
+                            "p": 0.07954545454545454,
+                            "r": 0.2916666666666667
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.12499999663265315,
+                            "p": 0.07954545454545454,
+                            "r": 0.2916666666666667
+                        }
+                    },
+                    "metor": 0.12,
+                    "bert": {
+                        "Precision": 0.7287757396697998,
+                        "Recall": 0.81760573387146,
+                        "F1": 0.7706394195556641
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I have a severe back problem. I've had 3 major surgeries, but I'm still in constant pain. It's affecting my mood and my family life. What can I do?",
+        "source_sentence": [
+            "1. Consider reaching out to a healthcare professional such as a general practitioner or a specialist depending on whether your issue is primarily psychological or physical. They might be able to offer you various options including therapy, medication, or surgery among others. These professionals can also assist you in making decisions regarding managing your condition and living as fully as possible while coping with your limitations.\n        2. Engaging in activities that bring you joy and pleasure may help boost your mood despite the ongoing pain. This could involve hobbies, socializing, reading, watching movies, or anything else that makes you happy. Try to engage in these activities regularly to maintain positive emotions and improve overall quality of life.\n        3. Connecting with supportive individuals or communities who understand what you are going through can be incredibly helpful in providing encouragement and understanding during challenging times. Joining local support groups or online forums dedicated to similar conditions can facilitate meaningful connections and foster valuable friendships.\n        4. Practicing mindfulness meditation, relaxation techniques, or stress management strategies may help alleviate anxiety and reduce overall stress levels, leading to improved emotional wellbeing.\n        5. Setting realistic goals for yourself and breaking larger tasks into smaller, manageable steps can help prevent feelings of overwhelm and frustration. Focus on achieving incremental progress rather than expecting immediate resolution.\n        6. Seeking alternative therapies, such as acupuncture, massage, chiropractic care, or yoga, may complement conventional treatments in relieving pain and promoting healing.\n        7. Maintaining open communication with loved ones about your struggles and seeking their assistance and compassion during difficult moments can strengthen relationships and bolster emotional resiliency.\n        </ul>\n\n        1. Have you spoken to your primary care provider about your situation? Depending on your diagnosis and the extent of your pain, they might be able to help determine if additional testing or interventions are necessary. They may also be able to explore potential treatment options with you, ranging from prescription medications and therapy sessions to lifestyle modifications and alternative practices.\n        2. In addition to addressing any physical discomfort, it's essential to acknowledge the impact your condition has on your emotional state. Consider speaking openly with trusted friends, family members, or a licensed therapist about the ways in which your pain affects your daily functioning and relationships. By sharing your thoughts and feelings, you may gain valuable insight and develop coping skills to better navigate"
+        ],
+        "sentences": [
+            "Chronic pain at the back likely results from a physical problem which must be addressed by a medical professional."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2993,
+                    "total_tokens": 3493
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.05555555438368059,
+                            "p": 0.02962962962962963,
+                            "r": 0.4444444444444444
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.04861110993923614,
+                            "p": 0.025925925925925925,
+                            "r": 0.3888888888888889
+                        }
+                    },
+                    "metor": 0.13,
+                    "bert": {
+                        "Precision": 0.7580258846282959,
+                        "Recall": 0.8650577664375305,
+                        "F1": 0.808012843132019
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I suffer from adult ADHD, anxiety disorder, and I'm also very shy. This has made it hard for me to seek help. What kind of therapy would you recommend?",
+        "source_sentence": [
+            " Based on your description, I would suggest seeking therapy that addresses both your Adult Attention Deficit Hyperactivity Disorder (ADHD) and your anxiety disorder. Since you've indicated that you also struggle with shyness, consider looking for a therapist who specializes in cognitive behavioral therapy (CBT), as it's effective in addressing these issues. Furthermore, acceptance and commitment therapy (ACT) might also be beneficial due to its emphasis on psychological flexibility and living fully in the moment despite anxiety. Finding a licensed therapist experienced in treating individuals with similar conditions and whom you feel comfortable talking to is crucial. Don't let fear hold you back from reaching out for support during this challenging time. Remember that taking steps towards improving your mental wellbeing is essential, and starting the journey with a qualified therapist is a significant part of that progress. Good luck on your path to better emotional health!"
+        ],
+        "sentences": [
+            "If it is simply counseling that you seek, any therapist should be able to help you sift through these concerns."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 183,
+                    "prompt_tokens": 3311,
+                    "total_tokens": 3494
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10769230519644975,
+                            "p": 0.06306306306306306,
+                            "r": 0.3684210526315789
+                        },
+                        "rouge-2": {
+                            "f": 0.012269936590764016,
+                            "p": 0.006944444444444444,
+                            "r": 0.05263157894736842
+                        },
+                        "rouge-l": {
+                            "f": 0.0923076898118344,
+                            "p": 0.05405405405405406,
+                            "r": 0.3157894736842105
+                        }
+                    },
+                    "metor": 0.18,
+                    "bert": {
+                        "Precision": 0.8153305053710938,
+                        "Recall": 0.8539810180664062,
+                        "F1": 0.8342083096504211
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "A few years ago I was making love to my wife when I lost my erection and couldn't get it back. Ever since then I've had severe anxiety about sex. What can I do?",
+        "source_sentence": [
+            "1. Stress management techniques such as meditation, deep breathing exercises and regular physical activity can go a long way in helping manage stress levels and allowing the body to perform better during intimate moments. \n        2. Communication with your partner is essential. Discussing feelings openly and honestly will create trust, understanding and mutual support. This can lead to less stress around sexual experiences and ultimately improve overall satisfaction. \n        3. Setting realistic expectations for your first sexual encounter post-incident is crucial to minimize potential anxiety. Start small, perhaps explore non-penetrative activities that allow for relaxation before trying intercourse again.\n        4. Seek therapy. Speaking with a trained professional can help identify underlying causes of anxiety, including past traumas or negative beliefs. They will offer strategies for coping mechanisms and ways to rebuild confidence and trust.\n        5. Keep things exciting. Introduce new sensations, positions and fantasies to keep the spark alive and prevent boredom from setting in.\n\nIt sounds like you're dealing with a complex issue, one that involves emotions, physiology, and relationships. Please know that seeking help and addressing this concern is an important step towards improving both your personal and romantic life. Remember that you're not alone in facing these challenges, and reaching out for support is a courageous act. Best wishes on your journey toward healing.\n        1. Stress management techniques such as meditation, deep breathing exercises and regular physical activity can go a long way in helping manage stress levels and allowing the body to perform better during intimate moments. \n        2. Communication with your partner is essential. Discussing feelings openly and honestly will create trust, understanding and mutual support. This can lead to less stress around sexual experiences and ultimately improve overall satisfaction. \n        3. Setting realistic expectations for your first sexual encounter post-incident is crucial to minimize potential anxiety. Start small, perhaps explore non-penetrative activities that allow for relaxation before trying intercourse again.\n        4. Seek therapy. Speaking with a trained professional can help identify underlying causes of anxiety, including past traumas or negative beliefs. They will offer strategies for coping mechanisms and ways to rebuild confidence and trust.\n        5. Keep things exciting. Introduce new sensations, positions and fantasies to keep the spark alive and prevent boredom from setting in.\n\nIt"
+        ],
+        "sentences": [
+            "First step always is to do a medical rule out with your physician to determine there is not a physical reason for the erectile dysfunction."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 4473,
+                    "total_tokens": 4973
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11398963528577949,
+                            "p": 0.06432748538011696,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.008403359531106951,
+                            "p": 0.004672897196261682,
+                            "r": 0.041666666666666664
+                        },
+                        "rouge-l": {
+                            "f": 0.09326424668474326,
+                            "p": 0.05263157894736842,
+                            "r": 0.4090909090909091
+                        }
+                    },
+                    "metor": 0.13,
+                    "bert": {
+                        "Precision": 0.7392463684082031,
+                        "Recall": 0.8257470726966858,
+                        "F1": 0.780106246471405
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I struggle with depression as well as pretty intense mood swings, ranging from extreme sadness to extreme happiness. What can I do to stabilize my moods?",
+        "source_sentence": [
+            "1. Try to establish a regular sleep pattern. Getting adequate rest is crucial to maintaining emotional balance.\n        2. Regularly engage in activities that bring joy or pleasure.\n        3. Focus on gratitude and positivity instead of negative thoughts.\n        4. Reach out to supportive relationships.\n        5. Find healthy ways to manage stress, such as exercise or meditation.\n        6. Seek professional help if needed. Don't hesitate to speak with a healthcare provider about your feelings and receive a proper diagnosis and treatment options. Remember, taking care of your mental health is just as important as physical health."
+        ],
+        "sentences": [
+            "It's fun to ride the roller coaster from time to time, but if you're on it too often, it becomes exhausting."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 129,
+                    "prompt_tokens": 3462,
+                    "total_tokens": 3591
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0612244866701376,
+                            "p": 0.0379746835443038,
+                            "r": 0.15789473684210525
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.0612244866701376,
+                            "p": 0.0379746835443038,
+                            "r": 0.15789473684210525
+                        }
+                    },
+                    "metor": 0.12,
+                    "bert": {
+                        "Precision": 0.7750670909881592,
+                        "Recall": 0.8340340852737427,
+                        "F1": 0.8034701943397522
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    },
+    {
+        "question": "I self-harm, and I stop for awhile. Then when something bad happens, I go back to it. What can I do to stop for good?",
+        "source_sentence": [
+            " Self-harm can be a deeply entrenched behavior pattern. The urge to engage in self-harming behaviors can be strong and seemingly irresistible, especially during periods of intense emotional pain or stress. While there's no magic solution to stopping the impulse to self-harm completely, there are several steps you can take to reduce the frequency and intensity of these urges and ultimately move toward healing. Here are some strategies that may be helpful for you:\n\n1. Identify Your Triggers: Understanding the specific situations, emotions, or thought patterns that lead you to engage in self-harm is crucial to preventing future episodes. Keep a journal or log to record when and why you feel the urge to harm yourself. Over time, you may begin to notice common themes or patterns in your thought processes that precede self-harming behaviors. Once you become aware of these triggers, you can work on developing alternative coping mechanisms to address them.\n2. Build a Support System: Surround yourself with people who care about you and want to help. Share your experience with trusted loved ones and allow them to support you in your journey toward recovery. Consider joining a support group for individuals who struggle with self-harm, as connecting with others who have gone through similar experiences can be incredibly healing.\n3. Practice Healthy Coping Mechanisms: Develop healthy habits and activities to replace self-harming behaviors. Engaging in creative pursuits, exercising regularly, practicing mindfulness meditation, or participating in hobbies you love are excellent ways to channel emotional energy in constructive ways. Find what works best for you and commit to incorporating it into your daily routine.\n4. Seek Professional Help: A mental health professional can help you navigate the complexities of self-harm and guide you in developing a personalized plan to address the underlying causes of your behavior. Cognitive-behavioral therapy (CBT), dialectical behavior therapy (DBT), and psychodynamic therapy are evidence-based therapies that have been shown to be effective in treating self-harm and related conditions. Don't hesitate to reach out for professional assistance if you need it.\n5. Stay Committed to Recovery: Change takes time, effort, and dedication. Focus on progress rather than perfection and remember that setbacks are a normal part of the healing process. Celebrate small victories along the way and remind yourself"
+        ],
+        "sentences": [
+            "In a way, self-harm can present somewhat like an addiction in the sense that it becomes a primary coping strategy for intense emotional pain."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2658,
+                    "total_tokens": 3158
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.09160305183351788,
+                            "p": 0.0502092050209205,
+                            "r": 0.5217391304347826
+                        },
+                        "rouge-2": {
+                            "f": 0.010471203056796812,
+                            "p": 0.005571030640668524,
+                            "r": 0.08695652173913043
+                        },
+                        "rouge-l": {
+                            "f": 0.08396946404725836,
+                            "p": 0.04602510460251046,
+                            "r": 0.4782608695652174
+                        }
+                    },
+                    "metor": 0.16,
+                    "bert": {
+                        "Precision": 0.7942719459533691,
+                        "Recall": 0.8647323250770569,
+                        "F1": 0.828005850315094
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-165853"
+    }
+]

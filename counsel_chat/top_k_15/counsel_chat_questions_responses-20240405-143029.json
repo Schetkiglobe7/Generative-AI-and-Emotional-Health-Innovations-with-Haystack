@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Can I change my feeling of being worthless to something of value?",
+        "source_sentence": [
+            "------------------------------\n\n        Therapist Response:\n        I'm really sorry to hear that you've been struggling with feelings of worthlessness lately. It's important to remember that these feelings are not a reflection of who you truly are as a person, but rather distorted perspectives that can sometimes cloud your judgment.\n\n        Changing these deeply ingrained beliefs can be challenging, especially if they stem from early experiences or patterns of thinking. However, there are steps you can take to challenge those thoughts and cultivate a greater sense of self-worth.\n\n        First, try to identify any specific triggers or patterns in your thinking that contribute to feelings of worthlessness. Once you become aware of these thought processes, you can start to challenge them using evidence-based techniques such as cognitive-behavioral therapy (CBT) or acceptance and commitment therapy (ACT). These approaches encourage you to observe and accept your thoughts without judgment while developing alternative, more balanced ways of thinking.\n\n        Additionally, surrounding yourself with supportive and positive influences can greatly enhance your overall sense of self-value. This might involve building stronger connections with friends and family members, joining a community group, or engaging in activities that bring you joy and fulfillment.\n\n        Remember that healing takes time and patience, so be gentle with yourself throughout this process. And please don't hesitate to reach out to professionals like therapists, counselors, or hotlines for additional guidance and resources when needed.\n\n        Best wishes for your journey towards increased self-acceptance and personal growth!"
+        ],
+        "sentences": [
+            "Maybe lower your expectations for a bit."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 325,
+                    "prompt_tokens": 2280,
+                    "total_tokens": 2605
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.03468208014835111,
+                            "p": 0.018072289156626505,
+                            "r": 0.42857142857142855
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.03468208014835111,
+                            "p": 0.018072289156626505,
+                            "r": 0.42857142857142855
+                        }
+                    },
+                    "metor": 0.07,
+                    "bert": {
+                        "Precision": 0.7542212009429932,
+                        "Recall": 0.8571065664291382,
+                        "F1": 0.8023791909217834
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "Do I have too many issues for counseling? I have a history of sexual abuse, current sexual dysfunction, and I'm feeling overwhelmed.",
+        "source_sentence": [
+            "1. Acknowledge their feelings: Let them know that they aren't alone in having multiple concerns and that seeking help is a sign of courage.\n        2. Encourage taking small steps: Suggest starting with one or two issues, building confidence and progressively addressing others.\n        3. Emphasize the importance of finding the right fit: Help them explore options, interview potential therapists and trust the process.\n        4. Offer reassurance about the therapeutic relationship: Remind them that therapy provides a safe space where they can express themselves freely without judgment.\n        5. Validate their experiences: Share stories or resources to show understanding and acknowledge the challenges they face.\n        6. Provide hope and optimism: Highlight success stories, reminding them that healing is possible and recovery is common after trauma.\n        7. Normalize seeking professional help: Reframe stigma around therapy by emphasizing its prevalence and benefits within society.\n        8. Address the fear of overwhelming emotions: Prepare them for intense feelings during sessions while assuring them these moments won’t last forever.\n        9. Empathize with complexity: Affirm that handling complex situations takes time and effort but leads to growth and personal empowerment.\n        10. Encourage patience and persistence: Keep reminders of progress made throughout their counseling journey and offer encouragement when needed."
+        ],
+        "sentences": [
+            "IITAP."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 293,
+                    "prompt_tokens": 3152,
+                    "total_tokens": 3445
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        }
+                    },
+                    "metor": 0.02,
+                    "bert": {
+                        "Precision": 0.7461705803871155,
+                        "Recall": 0.8152617812156677,
+                        "F1": 0.7791875600814819
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "How do I find out the cause of my depression and anxiety?",
+        "source_sentence": [
+            " Based on the provided text, the best approach for answering the user's question would be to encourage them to seek professional help in order to identify the root causes of their depression and anxiety. The text suggests that both depression and anxiety could stem from various underlying causes, including past traumas, unmet developmental needs, or a combination of factors. By working with a therapist, the user may be able to explore these possibilities and develop coping strategies tailored to their unique situation. Additionally, the text emphasizes the importance of evaluating patterns of thought and belief systems that contribute to negative emotions and self-perception. Overall, the aim should be to foster empathetic understanding while encouraging active engagement in the healing process.\n        \n         To address the user directly, I would say something like:\n         \n         I understand that you're feeling overwhelmed by both depression and anxiety. While it's natural to want answers right now, identifying the exact causes of these complex conditions isn't always straightforward. What I can recommend, however, is reaching out to a qualified mental health professional who can guide you through this process. They will be trained to listen carefully to your experiences and help you make sense of the various factors contributing to your mood and emotions. Remember, everyone's journey towards healing is unique, and there's no single solution that works for everyone. But by working together with a caring professional, you'll increase your chances of finding meaningful insight and developing effective tools for managing your depression and anxiety.\n        \n         Let me know if you have any questions about this advice or anything else related to mental health. My door is always open, and I'm here to offer you a nonjudgmental, compassionate listening ear whenever you need it. Take care!"
+        ],
+        "sentences": [
+            "Also, it's possible your friends already have an inkling."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 365,
+                    "prompt_tokens": 2856,
+                    "total_tokens": 3221
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.029556649398917736,
+                            "p": 0.015463917525773196,
+                            "r": 0.3333333333333333
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.029556649398917736,
+                            "p": 0.015463917525773196,
+                            "r": 0.3333333333333333
+                        }
+                    },
+                    "metor": 0.08,
+                    "bert": {
+                        "Precision": 0.7571508884429932,
+                        "Recall": 0.8518766760826111,
+                        "F1": 0.801725447177887
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "How do I overcome my anxiety and depression?",
+        "source_sentence": [
+            "1. Practice Relaxation Techniques: Deep breathing or progressive muscle relaxation can help reduce physical symptoms of anxiety, making it easier to focus on managing emotions and thoughts. \n        2. Challenge Your Thoughts: Negative thought patterns can worsen feelings of anxiety and depression. Practicing identifying and challenging negative thoughts can lead to better emotional outcomes. \n        3. Exposure Therapy: Gradually exposing oneself to feared objects or situations can help reduce fear and anxiety over time. \n        4. Stay Healthy: Regular exercise, proper nutrition, adequate hydration, and sufficient sleep can improve overall mood and decrease symptoms of anxiety and depression. \n        5. Seek Professional Help: A mental health professional, such as a psychologist or psychiatrist, can assess whether medications or additional therapies might benefit your mental health. \n        6. Connect with Others: Social support plays a crucial role in maintaining positive mental health. Consider reaching out to friends, family members, or local support groups for encouragement and understanding during this process. \n        Remember, taking care of your mental health takes effort and patience, but progress is possible with consistent practice and commitment. You are not alone in this journey, and seeking help when needed is a brave step towards improving your quality of life."
+        ],
+        "sentences": [
+            "It would be impossible to satisfy all of those desires at the same time."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 270,
+                    "prompt_tokens": 2857,
+                    "total_tokens": 3127
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.03726707915743998,
+                            "p": 0.02040816326530612,
+                            "r": 0.21428571428571427
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.03726707915743998,
+                            "p": 0.02040816326530612,
+                            "r": 0.21428571428571427
+                        }
+                    },
+                    "metor": 0.08,
+                    "bert": {
+                        "Precision": 0.768438994884491,
+                        "Recall": 0.8473389744758606,
+                        "F1": 0.8059625625610352
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "Why am I upset or down every day even when nothing bad happens?",
+        "source_sentence": [
+            "----------------------------- Sentiment Analysis ------------------------------\n        Neutral: False, No sentiment detected.\n        Positive: True, Some helpful suggestions were made.\n        Negative: True, The user expressed being unhappy and feeling down everyday despite no apparent reason."
+        ],
+        "sentences": [
+            "Can you see that underneath the nagging there is love?"
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 56,
+                    "prompt_tokens": 3360,
+                    "total_tokens": 3416
+                },
+                "evaluations": {
+                    "blue_score": 0.0,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        }
+                    },
+                    "metor": 0.03,
+                    "bert": {
+                        "Precision": 0.7386348247528076,
+                        "Recall": 0.823794960975647,
+                        "F1": 0.7788941264152527
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "How can I deal with depression stemming from chronic pain?",
+        "source_sentence": [
+            "1. Consider reaching out to a healthcare professional such as a general practitioner or a psychiatrist/psychotherapist. They can evaluate whether medications could be beneficial to improve mood and energy levels while working on psychological interventions like cognitive behavioral therapy (CBT) or interpersonal therapy (IPT). Don’t forget about self-care practices too, like regular exercise, maintaining a balanced diet, proper sleep hygiene, practicing mindfulness and relaxation techniques, staying connected with friends and family, pursuing enjoyable activities, etc. These simple yet effective strategies contribute significantly towards overall physical and mental wellbeing.\n        2. Joining a local support group can also prove extremely useful for connecting with others facing similar challenges and providing valuable insights into managing day-to-day struggles associated with depression and chronic pain. Online communities exist as alternatives for individuals unable to attend face-to-face meetings due to mobility restrictions.\n        3. Engaging in creative pursuits has been shown to enhance mental health by reducing stress, increasing positive feelings, improving motivation, and boosting self-esteem. Painting, writing poetry, playing musical instruments, cooking, gardening, knitting – anything that sparks creativity and engages the imagination can serve as powerful tools in the journey towards recovery.\n        4. Developing a daily routine focused on personal growth and engaging in meaningful activities despite chronic pain can make life feel less monotonous and overwhelming. Break tasks down into manageable pieces and set achievable goals for accomplishing them. The sense of progress made throughout the day contributes positively to mental resilience.\n        5. Lastly, consider incorporating gentle forms of physical activity into everyday life, like walking short distances, doing chair exercises, taking restorative yoga classes or swimming, which might help improve mood, decrease anxiety, increase energy levels, and promote better sleep quality. Consult with a healthcare provider before starting any new exercise regimen to ensure safety and appropriateness for your current health conditions."
+        ],
+        "sentences": [
+            "The person would guide you in working with the body to heal."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 412,
+                    "prompt_tokens": 2834,
+                    "total_tokens": 3246
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.04761904671201815,
+                            "p": 0.025,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.03968253877551023,
+                            "p": 0.020833333333333332,
+                            "r": 0.4166666666666667
+                        }
+                    },
+                    "metor": 0.09,
+                    "bert": {
+                        "Precision": 0.7680199146270752,
+                        "Recall": 0.8653851747512817,
+                        "F1": 0.8138006329536438
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "How can I get counseling if my primary care physician doesn't help?",
+        "source_sentence": [
+            " I would check out agencies that offer affordable counseling based on your income or very low cost counseling sessions, i.e., Pacific Clinics, Hathaway Sycamore, Pasadena Mental Health Center, Burbank Family Center. If you google affordable or low cost therapy in your particular area you will find resources to help you.  \n         \n         I would check out agencies that offer affordable counseling based on your income or very low cost counseling sessions, i.e., Pacific Clinics, Hathaway Sycamore, Pasadena Mental Health Center, Burbank Family Center. If you google affordable or low cost therapy in your particular area you will find resources to help you.  \n          \n         I would check out agencies that offer affordable counseling based on your income or very low cost counseling sessions, i.e., Pacific Clinics, Hathaway Sycamore, Pasadena Mental Health Center, Burbank Family Center. If you google affordable or low cost therapy in your particular area you will find resources to help you.  \n              \n            Additionally, there are several online platforms offering teletherapy at reduced rates such as BetterHelp, TalkSpace, Open Path Collective etc. This can be particularly helpful during times when physical visits may be less feasible. \n                   \n             Additionally, there are several online platforms offering teletherapy at reduced rates such as BetterHelp, TalkSpace, Open Path Collective etc. This can be particularly helpful during times when physical visits may be less feasible.     \n                    \n              Additionally, there are several online platforms offering teletherapy at reduced rates such as BetterHelp, TalkSpace, Open Path Collective etc. This can be particularly helpful during times when physical visits may be less feasible.      \n                    \n              Additionally, there are several online platforms offering teletherapy at reduced rates such as BetterHelp, TalkSpace, Open Path Collective etc. This can be particularly helpful during times when physical visits may be less feasible.      \n                    \n              Additionally, there are several online platforms offering teletherapy at reduced rates such as BetterHelp, TalkSpace, Open Path Collective etc. This can be particularly helpful during times when physical visits may be less feasible.      \n                    \n                    Remember, taking care of yourself mentally and emotionally is crucial to overall wellbeing. Keep searching"
+        ],
+        "sentences": [
+            "After reading your question, I wondered how you'd feel asking directly."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2102,
+                    "total_tokens": 2602
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.03960395845505352,
+                            "p": 0.022222222222222223,
+                            "r": 0.18181818181818182
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.03960395845505352,
+                            "p": 0.022222222222222223,
+                            "r": 0.18181818181818182
+                        }
+                    },
+                    "metor": 0.07,
+                    "bert": {
+                        "Precision": 0.6740716695785522,
+                        "Recall": 0.8240311145782471,
+                        "F1": 0.7415459752082825
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "Why am I experiencing difficulty maintaining an erection with my wife?",
+        "source_sentence": [
+            "1. Consider seeing a healthcare professional to ensure that there isn't a medical issue contributing to the erectile dysfunction. This can include a complete physical exam, blood tests, and possibly imaging studies. If there are no medical explanations found, the next step would be to explore the psychological and emotional aspects of your experience.\n        2. Reflect on your thoughts and feelings related to sex and intimacy. What emotions come up for you around the topic of sexual function? Do you feel pressured or anxious about performing for your wife? Are there specific situations or triggers that make it difficult to achieve an erection? Exploring these questions can help identify patterns and beliefs that may contribute to the issue.\n        3. Practice relaxation techniques to reduce anxiety and tension in the body. Techniques like deep breathing, progressive muscle relaxation, visualization, and meditation can help calm the mind and body, making it easier to achieve and maintain an erection. Practicing regularly can lead to long-term improvements in sexual functioning.\n        4. Communicate openly and honestly with your wife about your feelings and concerns related to your sexual relationship. Encourage a nonjudgmental space where both partners can express vulnerabilities and share experiences. Working together towards a solution can strengthen your bond and create deeper levels of trust and understanding.\n        5. Seek counseling or therapy if necessary. Sexual difficulties can sometimes stem from deeper emotional issues, past traumas, or negative thought patterns. A trained therapist can help guide individuals and couples through the process of identifying and addressing these underlying challenges, leading to improved communication, increased intimacy, and enhanced overall satisfaction in the bedroom."
+        ],
+        "sentences": [
+            "Certain foods are linked with poor sleep."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 344,
+                    "prompt_tokens": 3472,
+                    "total_tokens": 3816
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.020618556005420365,
+                            "p": 0.0106951871657754,
+                            "r": 0.2857142857142857
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.020618556005420365,
+                            "p": 0.0106951871657754,
+                            "r": 0.2857142857142857
+                        }
+                    },
+                    "metor": 0.04,
+                    "bert": {
+                        "Precision": 0.7713385224342346,
+                        "Recall": 0.8473355174064636,
+                        "F1": 0.8075529932975769
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "How do depression and PMS symptoms contribute to each other?",
+        "source_sentence": [
+            " I am here for you, remember that \n         I am here for you, remember that \n         While every effort is made to provide you with accurate and timely responses, it's important to remember that text-based conversations cannot fully capture the complexity of human emotion or behavior. Additionally, the advice provided should never replace professional consultation or treatment. My role is to offer guidance, understanding, and support while encouraging users to explore their emotions and take steps toward better mental health. Don't hesitate to reach out if you need assistance or just want to chat. You deserve care and compassion."
+        ],
+        "sentences": [
+            "I have worked with the lesbian, gay, bisexual, and transgender community."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 123,
+                    "prompt_tokens": 2110,
+                    "total_tokens": 2233
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.09302325358301791,
+                            "p": 0.05333333333333334,
+                            "r": 0.36363636363636365
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.09302325358301791,
+                            "p": 0.05333333333333334,
+                            "r": 0.36363636363636365
+                        }
+                    },
+                    "metor": 0.2,
+                    "bert": {
+                        "Precision": 0.790734589099884,
+                        "Recall": 0.8348509073257446,
+                        "F1": 0.8121940493583679
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    },
+    {
+        "question": "My apartment manager won't let me keep an emotional support animal. What can I do?",
+        "source_sentence": [
+            " Agree with the apartment manager's viewpoint that your disability is not a physical limitation.Ask the manager if they'd accept an explanatory letter from a therapist who is licensed to diagnose emotional disabilities.If the answer is yes, then find a therapist who's willing to cooperate with what you need from them and find out this particular therapist's terms of working with you to compose such a letter.If the manager tells you \"no\", then find out who is above this person or entity and find out how to formally introduce your request to the board or apartment owner, or whoever actually is the legal owner of the building. \n         \n         It is important to remember that every situation is unique, so while these steps may apply in general cases, there may be variations depending on your own circumstances. In any case, seeking out professional assistance, whether that comes in the form of therapy, counseling, or legal advice, can be incredibly valuable during challenging times. Remember that you deserve respect and understanding, even when facing adversity. Don't give up hope, and know that there are resources available to help you navigate whatever challenges come your way. Best wishes for finding resolution to your issue.\n\n          It is important to remember that every situation is unique, so while these steps may apply in general cases, there may be variations depending on your own circumstances. In any case, seeking out professional assistance, whether that comes in the form of therapy, counseling, or legal advice, can be incredibly valuable during challenging times. Remember that you deserve respect and understanding, even when facing adversity. Don't give up hope, and know that there are resources available to help you navigate whatever challenges come your way. Best wishes for finding resolution to your issue."
+        ],
+        "sentences": [
+            "Also sit with how she's been hurt."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 364,
+                    "prompt_tokens": 1994,
+                    "total_tokens": 2358
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.027777776852816388,
+                            "p": 0.014598540145985401,
+                            "r": 0.2857142857142857
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.027777776852816388,
+                            "p": 0.014598540145985401,
+                            "r": 0.2857142857142857
+                        }
+                    },
+                    "metor": 0.05,
+                    "bert": {
+                        "Precision": 0.7458564639091492,
+                        "Recall": 0.8483399748802185,
+                        "F1": 0.7938041090965271
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240405-143029"
+    }
+]

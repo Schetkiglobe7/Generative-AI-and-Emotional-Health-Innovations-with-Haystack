@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Can I change my feeling of being worthless to something of value?",
+        "source_sentence": [
+            "1) Validate and acknowledge their feelings (empathize).\n        \"It sounds really difficult to feel like you're not valuable or worthy when deep down, we all want to believe that our existence matters and that we contribute positively in some way.\"\n\n        2) Challenge negative self-talk (cognitive restructuring).\n        \"However, it's important to remember that those thoughts might be rooted in inaccurate beliefs about yourself and the world around you. Let me help you explore how you can challenge those negative thought patterns and replace them with more positive ones.\"\n\n        3) Encourage self-care activities (mindfulness/self-compassion).\n        \"One effective way to combat this feeling is through practicing self-care activities such as meditation, journaling, exercise, hobbies or creative pursuits which will give you a better understanding of yourself and build up your confidence and self-esteem over time.\"\n\n        4) Seek support from trusted friends and family members or professionals.\n        \"Don't hesitate to reach out to people close to you or consider seeking professional guidance from a therapist or counselor who can offer additional tools and techniques tailored to your unique circumstances and goals\"\n\n        Possible Response:\n        \"Absolutely! Feeling worthless isn't a fixed state, but rather a fleeting emotion that comes and goes. It takes effort and commitment to overcome those negative thoughts and focus on finding your own value and self-worth. Here are some ways that might help: Firstly, recognize that those feelings aren't a true reflection of reality and instead come from within ourselves and external comparisons. Secondly, practice self-kindness and self-compassion by treating yourself with love and care just as you would treat a dear friend in similar circumstances. Thirdly, engage in activities that bring joy and fulfillment to your life, helping you see your inherent value and strengthening your belief in yourself. And fourthly, lean on supportive relationships and seek assistance from professionals whenever needed. Remember that everyone struggles at times and no one is truly alone in their journey towards greater self-awareness and self-acceptance.\""
+        ],
+        "sentences": [
+            "Maybe lower your expectations for a bit."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 456,
+                    "prompt_tokens": 203,
+                    "total_tokens": 659
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.017021276017745605,
+                            "p": 0.008771929824561403,
+                            "r": 0.2857142857142857
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.017021276017745605,
+                            "p": 0.008771929824561403,
+                            "r": 0.2857142857142857
+                        }
+                    },
+                    "metor": 0.03,
+                    "bert": {
+                        "Precision": 0.7399468421936035,
+                        "Recall": 0.8558791875839233,
+                        "F1": 0.7937018871307373
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "Do I have too many issues for counseling? I have a history of sexual abuse, current sexual dysfunction, and I'm feeling overwhelmed.",
+        "source_sentence": [
+            "------------------------------\n\n        Based on the document provided, here's my response:\n\n        First, let me acknowledge that dealing with a history of sexual abuse, sexual dysfunction, and feelings of overwhelmingness is a significant load to carry. However, as per the information provided by Laura Cassidy, you do not have \"too many issues\" for counseling or therapy. It is essential to understand that seeking professional help when facing these challenges is a courageous decision. You deserve all the support and care necessary to heal and regain control over your life.\n\n        In terms of therapeutic insights, it might be beneficial to explore how past experiences of sexual abuse could influence your present-day sexual functioning issues. Trauma from the past can lead to various psychological symptoms, including difficulty trusting others, low self-esteem, fear, shame, guilt, and anxiety - all of which can contribute to problems with intimacy and relationships. By working through these underlying emotions and developing healthy coping strategies, you will gain valuable tools to improve both your emotional wellbeing and your ability to engage in satisfying intimate connections. Remember that healing takes time and patience, and each person progresses differently. So, give yourself permission to move forward at your own pace while receiving the guidance and encouragement of your therapist.\n\n        Lastly, if you need additional resources or assistance finding a qualified therapist who specializes in treating survivors of sexual abuse and sexual dysfunctions, please don’t hesitate to reach out to us. We'd be more than happy to help connect you with reputable professionals who can address your unique needs. Take one day at a time, focus on your personal growth, and remember that recovery is always within reach. Best wishes on your journey towards healing!"
+        ],
+        "sentences": [
+            "IITAP."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 362,
+                    "prompt_tokens": 317,
+                    "total_tokens": 679
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        }
+                    },
+                    "metor": 0.01,
+                    "bert": {
+                        "Precision": 0.7646222710609436,
+                        "Recall": 0.8192368149757385,
+                        "F1": 0.7909879684448242
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "How do I find out the cause of my depression and anxiety?",
+        "source_sentence": [
+            "1) Consider speaking with a therapist or counselor for professional help in identifying the root causes. They will guide you through exploring past traumas and experiences that may contribute to your current emotional state.\n        2) Keep a journal or write down thoughts, ideas, triggers, and patterns you notice throughout each day and week. Reflect on how these things make you feel and why they might be linked to depressive or anxious thoughts and behaviors.\n        3) Practice mindfulness meditation daily to increase awareness of your thoughts, sensations, emotions, and body reactions. Mindfulness can lead to greater understanding and insight into yourself.\n        4) Engage in activities that give meaning, purpose, joy, or pleasure. This includes hobbies, social connections, exercise, or volunteering. Finding positive ways to cope can improve mood and overall well-being.\n        5) Learn relaxation techniques like deep breathing exercises or yoga poses to manage stress and calm the nervous system when experiencing heightened levels of anxiety or sadness.\n        6) Create a routine by setting goals for healthy lifestyle changes, including sleep hygiene, nutrition, physical activity, and time management strategies. Aim for consistency rather than perfection.\n        7) Educate yourself about depression and anxiety by reading reputable sources and joining online communities or local support groups where others share similar struggles and coping methods. Empathy and connection from others going through similar challenges can offer valuable perspectives and encouragement.\n\n        Insightful Quote: \"It takes courage to grow up and become who you really are.\" - EE Cummings\n\n        Suggestions: Remember that finding the cause of depression and anxiety often involves a process of discovery and healing. It's important not to judge yourself but instead practice self-compassion during this journey towards understanding yourself better. Allow yourself space to explore new possibilities and approaches without putting too much pressure on immediate solutions or outcomes. Reach out for support whenever needed and trust that taking small steps every day towards prioritizing self-care will ultimately lead to progress and growth."
+        ],
+        "sentences": [
+            "Also, it's possible your friends already have an inkling."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 432,
+                    "prompt_tokens": 182,
+                    "total_tokens": 614
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.00787401506448019,
+                            "p": 0.004081632653061225,
+                            "r": 0.1111111111111111
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.00787401506448019,
+                            "p": 0.004081632653061225,
+                            "r": 0.1111111111111111
+                        }
+                    },
+                    "metor": 0.11,
+                    "bert": {
+                        "Precision": 0.7492978572845459,
+                        "Recall": 0.8439807295799255,
+                        "F1": 0.7938259243965149
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "How do I overcome my anxiety and depression?",
+        "source_sentence": [
+            "1. Encourage self-care activities such as practicing mindfulness meditation or deep breathing exercises, taking relaxing baths, reading, writing in a journal, engaging in hobbies, or doing creative arts projects. These activities can help reduce stress levels and improve mood.\n        2. Create a daily routine and try to stick to it as much as possible. This can give a sense of structure and predictability, which can be grounding for someone struggling with anxiety and depression.\n        3. Connect with others and build a support network. Surround yourself with people who are understanding and supportive. Reach out to friends, family members, or join online communities.\n        4. Consider joining a support group, either in-person or online, where you can connect with other individuals dealing with similar issues. Sharing experiences and receiving encouragement from peers can be incredibly healing.\n        5. Engage in problem solving and set achievable goals. Break down larger tasks into smaller steps and focus on what is within your control. Focusing on progress rather than perfectionism can lead to greater feelings of accomplishment and self-worth.\n        6. Seek professional help if necessary. Talking to a mental health professional such as a psychologist or psychiatrist can provide valuable insight and guidance. They can assess whether medication might be beneficial and offer therapy sessions to teach skills like cognitive restructuring, behavioral activation, relaxation techniques, and more.\n        7. Practice positive thinking and self-compassion. Be gentle with yourself and remember that everyone struggles at times. Recognize that thoughts and emotions are just passing phenomena, not facts about reality, and that you have the capacity to choose how you respond to them.\n\n        Emotional Response: It takes courage to reach out for help when dealing with anxiety and depression. Remember, you're not alone and there are resources available to support you. The journey towards overcoming these challenges isn't easy, but each step taken gets us closer to finding peace and happiness. Don't hesitate to ask for help when needed. You deserve to feel better."
+        ],
+        "sentences": [
+            "It would be impossible to satisfy all of those desires at the same time."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 436,
+                    "prompt_tokens": 178,
+                    "total_tokens": 614
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.047619046569664925,
+                            "p": 0.025210084033613446,
+                            "r": 0.42857142857142855
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.047619046569664925,
+                            "p": 0.025210084033613446,
+                            "r": 0.42857142857142855
+                        }
+                    },
+                    "metor": 0.09,
+                    "bert": {
+                        "Precision": 0.7577463388442993,
+                        "Recall": 0.8452927470207214,
+                        "F1": 0.7991290092468262
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "Why am I upset or down every day even when nothing bad happens?",
+        "source_sentence": [
+            " Insights and Suggestions:\n          I understand that feeling unhappy without any apparent reason can be quite distressing. Based on the information provided, here are some suggestions for exploring this issue further:\n          \n            1. Reflect on your daily activities: Make a note of everything you do during the day. You might discover that certain tasks or situations leave you feeling more drained or negative than others. Identifying these patterns could help you make positive adjustments, such as finding ways to make those activities more enjoyable or delegating them if necessary.\n              \n           2. Practice gratitude journaling: Focus on recording one good thing that has occurred each day. Over time, reflecting on these moments can help shift your perspective towards positivity, even on days when you feel down.\n              \n           3. Examine your habits around self-care: Ensure that you are meeting basic needs like regular meals and adequate rest. Consider incorporating additional practices that promote overall wellness, such as physical activity, hobbies, or social connections.\n             \n           4. Seek emotional support from friends, family, or a therapist: Sometimes talking about our feelings with someone who cares can bring comfort and clarity. A mental health professional can also offer valuable guidance and coping strategies tailored specifically to your situation.\n                    \n             Remember, everyone experiences ups and downs; it’s part of being human. However, persistent sadness despite seemingly neutral circumstances might indicate underlying issues worth addressing. Take things step by step, and don't hesitate to reach out for assistance if needed."
+        ],
+        "sentences": [
+            "Can you see that underneath the nagging there is love?"
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 327,
+                    "prompt_tokens": 397,
+                    "total_tokens": 724
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.02955664930961686,
+                            "p": 0.015544041450777202,
+                            "r": 0.3
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.02955664930961686,
+                            "p": 0.015544041450777202,
+                            "r": 0.3
+                        }
+                    },
+                    "metor": 0.08,
+                    "bert": {
+                        "Precision": 0.7095254063606262,
+                        "Recall": 0.830328643321991,
+                        "F1": 0.765188455581665
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "How can I deal with depression stemming from chronic pain?",
+        "source_sentence": [
+            "<p><strong>Therapeutic Insights:</strong></p>\n         <ul>\n             <li>\"Feeling sad because of physical discomfort is understandable. It takes courage to reach out for help when you're going through such difficulties. Remember that seeking professional assistance does not mean being weak but rather acknowledging the need for extra care.\"</li>\n             <li>\"It might be challenging initially to engage in activities due to the pain, but try to incorporate gentle exercises like stretching, yoga or aquatic therapy into your daily routine. These may help alleviate both your physical symptoms and emotional burden over time.\"</li>\n             <li>\"Connecting with others who face similar struggles can be incredibly empowering. Sharing experiences, offering words of encouragement, and building friendships can make coping with challenges much easier.\"</li>\n             <li>\"Practicing mindfulness meditation, deep breathing techniques, progressive muscle relaxation, or other stress-reducing practices regularly could also contribute positively towards managing depressive feelings associated with chronic pain.\"</li>\n         </ul>"
+        ],
+        "sentences": [
+            "The person would guide you in working with the body to heal."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 233,
+                    "prompt_tokens": 277,
+                    "total_tokens": 510
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.058823527802768207,
+                            "p": 0.03225806451612903,
+                            "r": 0.3333333333333333
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.058823527802768207,
+                            "p": 0.03225806451612903,
+                            "r": 0.3333333333333333
+                        }
+                    },
+                    "metor": 0.12,
+                    "bert": {
+                        "Precision": 0.7478089332580566,
+                        "Recall": 0.8704200983047485,
+                        "F1": 0.8044694662094116
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "How can I get counseling if my primary care physician doesn't help?",
+        "source_sentence": [
+            "1) Consider reaching out to your insurance company or Employee Assistance Program (EAP). They might have resources available that could help connect you with a therapist.\n         2) Reach out to community mental health centers, universities offering psychology programs, or nonprofit organizations for sliding scale fees.\n         3) Use telehealth options such as BetterHelp, TalkSpace, or other online therapy platforms which often offer more affordable services than traditional therapists. These platforms allow access from anywhere, including the comfort of one’s own home.\n         4) Join peer support groups through Meetup, NAMI, or SMART Recovery to share experiences and receive emotional support during this difficult time.\n         5) Contact local crisis hotlines for immediate assistance and guidance, especially if you are experiencing severe distress, thoughts of self-harm, or suicidal ideations. \n        6) Lastly, consider writing letters or making calls to elected representatives advocating for improved accessibility to mental healthcare within the community. Your voice matters!\n        7) Remember it takes courage to seek professional help when struggling emotionally, so keep trying different avenues until finding the right fit for yourself."
+        ],
+        "sentences": [
+            "After reading your question, I wondered how you'd feel asking directly."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 244,
+                    "prompt_tokens": 193,
+                    "total_tokens": 437
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.01249999871953138,
+                            "p": 0.006711409395973154,
+                            "r": 0.09090909090909091
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.01249999871953138,
+                            "p": 0.006711409395973154,
+                            "r": 0.09090909090909091
+                        }
+                    },
+                    "metor": 0.11,
+                    "bert": {
+                        "Precision": 0.7449558973312378,
+                        "Recall": 0.8273366689682007,
+                        "F1": 0.7839880585670471
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "Why am I experiencing difficulty maintaining an erection with my wife?",
+        "source_sentence": [
+            "1) Consider that emotional factors may be contributing to this issue. Your relationship dynamics or personal stressors could cause performance anxiety, leading to difficulties achieving an erection during intimate moments with your wife.\n         2) Communication is crucial in addressing this concern. Share your feelings openly with her about how you feel when facing these challenges, ensuring she understands it isn't related solely to her. Encourage her to share any concerns or emotions of her own regarding this matter.\n          3) Seek professional help if necessary; speaking with a therapist can assist both partners in developing healthy communication skills, understanding each other’s perspectives, managing expectations, reducing stress, and working through potential underlying issues that may impact intimacy."
+        ],
+        "sentences": [
+            "Certain foods are linked with poor sleep."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 148,
+                    "prompt_tokens": 118,
+                    "total_tokens": 266
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.01869158756223259,
+                            "p": 0.01,
+                            "r": 0.14285714285714285
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.01869158756223259,
+                            "p": 0.01,
+                            "r": 0.14285714285714285
+                        }
+                    },
+                    "metor": 0.05,
+                    "bert": {
+                        "Precision": 0.781574010848999,
+                        "Recall": 0.8531936407089233,
+                        "F1": 0.8158150315284729
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "How do depression and PMS symptoms contribute to each other?",
+        "source_sentence": [
+            "1. Depression can worsen PMS symptoms: Depression shares some common symptoms with premenstrual syndrome (PMS), such as irritability, mood swings, and bloating. These overlapping symptoms may make it difficult for individuals to distinguish between the effects of depression and those caused by PMS. In addition, depression itself can exacerbate or intensify the physical and emotional symptoms associated with PMS. For example, a woman experiencing both conditions might feel more hopeless and helpless due to her depression, which could lead to increased sadness and anxiety during her premenstrual phase.\n\n        2. PMS symptoms can trigger depression: On the other hand, severe PMS symptoms can be a significant stressor that contributes to depression. The intense physical discomfort and emotional upheaval caused by PMS can leave women feeling overwhelmed and powerless, making them vulnerable to developing depressive symptoms. This cycle can perpetuate itself, creating a vicious circle where depression leads to worsened PMS symptoms, which in turn triggers further feelings of depression.\n\n        3. Hormonal imbalances: There is evidence suggesting a link between hormonal fluctuations and both depression and PMS. During the menstrual cycle, shifts in estrogen and progesterone levels can impact brain chemistry, leading to changes in mood regulation. Women who experience extreme hormonal swings may be at higher risk for developing either condition, contributing to the overlap between depression and PMS.\n\n        4. Treatment options : It is essential to address both conditions if they co-occur. Antidepressants, counseling, lifestyle modifications (such as exercise and diet), and alternative therapies like acupuncture and mindfulness meditation have been shown to be effective in managing depression and alleviating PMS symptoms. Consult a healthcare professional for advice tailored to individual needs.\n\n        Empathy and Support:\n        I understand how challenging it must be to cope with both depression and PMS simultaneously. Know that you're not alone in this struggle. Many women face similar experiences, and there are various resources available to help manage both conditions effectively. Remember that taking care of yourself – emotionally, physically, and mentally – is crucial in breaking free from this cycle. Reach out to trusted friends or family members when needed, consider joining support groups, and always communicate openly with your healthcare provider about your"
+        ],
+        "sentences": [
+            "I have worked with the lesbian, gay, bisexual, and transgender community."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 125,
+                    "total_tokens": 625
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.03968253884763166,
+                            "p": 0.02074688796680498,
+                            "r": 0.45454545454545453
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.03968253884763166,
+                            "p": 0.02074688796680498,
+                            "r": 0.45454545454545453
+                        }
+                    },
+                    "metor": 0.13,
+                    "bert": {
+                        "Precision": 0.7615320086479187,
+                        "Recall": 0.820767343044281,
+                        "F1": 0.790040910243988
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    },
+    {
+        "question": "My apartment manager won't let me keep an emotional support animal. What can I do?",
+        "source_sentence": [
+            "1. Empathy: It must feel frustrating to have been denied something that you feel is essential for your well-being. This situation highlights how important it is to advocate for yourself when faced with challenges related to mental health accommodations.\n        2. Supportive Suggestions: You might consider gathering some documentation from your therapist or healthcare provider about how having an emotional support dog benefits you mentally and emotionally. This information could help strengthen your argument. Additionally, research your landlord's policies regarding reasonable accommodations for disabilities as outlined by federal laws such as the Americans with Disabilities Act (ADA) and Fair Housing Act.\n        3. Encouragement and Resources: Remember that navigating these issues can be complex and overwhelming. Don't give up hope! Continue reaching out for assistance and exploring all available resources, including organizations focused on disability rights and advocacy groups. They may offer advice tailored specifically to situations like yours."
+        ],
+        "sentences": [
+            "Also sit with how she's been hurt."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 196,
+                    "prompt_tokens": 166,
+                    "total_tokens": 362
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.04615384513491126,
+                            "p": 0.024390243902439025,
+                            "r": 0.42857142857142855
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.04615384513491126,
+                            "p": 0.024390243902439025,
+                            "r": 0.42857142857142855
+                        }
+                    },
+                    "metor": 0.1,
+                    "bert": {
+                        "Precision": 0.780681848526001,
+                        "Recall": 0.8630807995796204,
+                        "F1": 0.8198161125183105
+                    }
+                }
+            }
+        ],
+        "filename": "counsel_chat_questions_responses-20240404-182158"
+    }
+]

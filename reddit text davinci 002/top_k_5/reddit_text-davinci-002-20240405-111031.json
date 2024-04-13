@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Me and the father of my child have been dating for three years now. We live together, but I feel like I'm doing this parenting thing alone.",
+        "source_sentence": [
+            " Based on the information provided in the document, it appears that if there is a strong relationship between the parent (you) and the child, then that parent has already assumed and accepted the responsibility and commitment that comes along with parenthood. The absence or inconsistent presence in a child's life could potentially harm them emotionally and developmentally. A consistent visitation schedule arranged with the other parent would benefit the child and fulfill the commitment made as a parent. Remember that every situation is unique and it might be helpful to communicate openly with each other regarding expectations and availability before making any decisions. You mentioned feeling alone in this process; consider reaching out for additional support from friends, family members, or community resources such as therapy or counseling services. This can help alleviate feelings of isolation and offer guidance during challenging times. Remember that parenting involves continuous effort and self-reflection, but ultimately brings great rewards and joy. Best wishes in navigating this journey!"
+        ],
+        "sentences": [
+            "It sounds like you are feeling very alone and unsupported in your relationship and parenting responsibilities. It may be helpful to communicate your feelings to your partner."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 196,
+                    "prompt_tokens": 849,
+                    "total_tokens": 1045
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.15068492894726968,
+                            "p": 0.08870967741935484,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.032085559103205874,
+                            "p": 0.018633540372670808,
+                            "r": 0.11538461538461539
+                        },
+                        "rouge-l": {
+                            "f": 0.13698629881028337,
+                            "p": 0.08064516129032258,
+                            "r": 0.45454545454545453
+                        }
+                    },
+                    "metor": 0.29,
+                    "bert": {
+                        "Precision": 0.8397547602653503,
+                        "Recall": 0.9031238555908203,
+                        "F1": 0.870287299156189
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "I can't seem to feel any emotion except anxiety and sadness. What's wrong with me?",
+        "source_sentence": [
+            " Additional Insights and Suggestion:\n        Try practicing mindfulness meditation which focuses on staying present in the moment without judgment. You can start by setting aside 5-10minutes each day and focusing on your breath or body sensations.\n        Exploring creative hobbies such as painting, drawing, playing musical instruments, etc., can help unlock emotional expression and alleviate feelings of numbness.\n        Engaging in regular physical activity such as walking, jogging or cycling can improve overall mood and energy levels.\n        Seek social support from friends or family members and open up conversations about how you are feeling.\n        Consider joining a therapy group where you can share experiences and receive encouragement from peers who may be dealing with similar issues.\n        Remember that seeking professional help is always a valid option and does not mean weakness or failure. Mental health conditions require attention and self-care, just like physical health issues."
+        ],
+        "sentences": [
+            "It is possible that you are experiencing symptoms of a mental health condition such as depression or anxiety. It may be beneficial to seek the guidance of a mental health professional."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 196,
+                    "prompt_tokens": 970,
+                    "total_tokens": 1166
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1931034453326992,
+                            "p": 0.11764705882352941,
+                            "r": 0.5384615384615384
+                        },
+                        "rouge-2": {
+                            "f": 0.03571428301658184,
+                            "p": 0.02127659574468085,
+                            "r": 0.1111111111111111
+                        },
+                        "rouge-l": {
+                            "f": 0.17931034188442332,
+                            "p": 0.1092436974789916,
+                            "r": 0.5
+                        }
+                    },
+                    "metor": 0.32,
+                    "bert": {
+                        "Precision": 0.7831752300262451,
+                        "Recall": 0.8771449327468872,
+                        "F1": 0.8275008797645569
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "Why do we allow one or few bad experiences when young to dictate how we behave and feel in the future?",
+        "source_sentence": [
+            " To summarize, allowing past negative experiences to define our present behaviors and feelings is common but not necessarily inevitable. With conscious effort and various tools such as therapy, mindfulness practices like yoga, meditation and tai chi, self-reflection and self-compassion, we can develop new ways of thinking and behaving that enable us to move forward in a healthy and productive manner. Remember that practicing staying present and focusing on the present moment will help in reducing the power of past negative experiences over our current emotional state and overall wellbeing."
+        ],
+        "sentences": [
+            "There are a few possible explanations for why early experiences can have a lasting impact, including the development of learned behaviors and the way our brains process and store memories."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 109,
+                    "prompt_tokens": 1038,
+                    "total_tokens": 1147
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.16326530213036244,
+                            "p": 0.11267605633802817,
+                            "r": 0.2962962962962963
+                        },
+                        "rouge-2": {
+                            "f": 0.01739130057618229,
+                            "p": 0.011627906976744186,
+                            "r": 0.034482758620689655
+                        },
+                        "rouge-l": {
+                            "f": 0.12244897559975022,
+                            "p": 0.08450704225352113,
+                            "r": 0.2222222222222222
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.8367981910705566,
+                        "Recall": 0.8748393058776855,
+                        "F1": 0.855396032333374
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "I have major depression, severe, PTSD, anxiety, and other mental health issues. I feel overwhelmed.",
+        "source_sentence": [
+            " I am unable to diagnose or prescribe medication, but I am here to listen and offer resources and coping strategies. Remember that seeking professional help is always a good idea when dealing with serious mental health conditions such as depression, anxiety, and PTSD. Please consider reaching out to a healthcare provider or a therapy service today. And remember, taking small steps towards managing your mental health every day can lead to significant improvements over time. You got this!"
+        ],
+        "sentences": [
+            "It is understandable that you are feeling upset and overwhelmed given the number of mental health challenges you are facing. Seeking support from a mental health professional can be a crucial step."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 92,
+                    "prompt_tokens": 544,
+                    "total_tokens": 636
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.17204300663198066,
+                            "p": 0.12121212121212122,
+                            "r": 0.2962962962962963
+                        },
+                        "rouge-2": {
+                            "f": 0.019230765208950545,
+                            "p": 0.013333333333333334,
+                            "r": 0.034482758620689655
+                        },
+                        "rouge-l": {
+                            "f": 0.12903225394380866,
+                            "p": 0.09090909090909091,
+                            "r": 0.2222222222222222
+                        }
+                    },
+                    "metor": 0.28,
+                    "bert": {
+                        "Precision": 0.8640844225883484,
+                        "Recall": 0.9003695845603943,
+                        "F1": 0.8818539381027222
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "Do I need a therapist?",
+        "source_sentence": [
+            "1) Based on the available information from the document alone, we cannot determine definitively whether or not the user needs a therapist. The text does indicate that they might benefit from therapy due to experiencing emotional struggles and difficulty coping with their situation.\n\n        2) It would be helpful to explore why the user feels uncertain or hesitant about seeking therapy. This could include fears or misconceptions about what therapy involves, past negative experiences with therapists or mental health professionals, or feelings of shame or stigma surrounding mental health issues.\n\n        3) Encouraging self-compassion and patience during this process can be crucial in helping the user feel more open and willing to pursue therapy. Reassuring them that finding a good therapist takes time and effort, and encouraging them to trust themselves and prioritize their own wellbeing can be valuable ways to promote healing and growth.\n\n        4) Providing resources and information about various types of therapy and how they might be able to address specific concerns or symptoms (such as cognitive behavioral therapy for anxiety or depression), as well as practical advice for finding and selecting a qualified therapist (such as checking credentials, reading reviews online, and asking questions during initial sessions), can also be helpful in making the therapy process less intimidating and more accessible."
+        ],
+        "sentences": [
+            "There is no one-size-fits-all answer to this question. If you are struggling with your thoughts, feelings, or behaviors, it may be helpful to explore therapy."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 264,
+                    "prompt_tokens": 276,
+                    "total_tokens": 540
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.09580838077234759,
+                            "p": 0.055944055944055944,
+                            "r": 0.3333333333333333
+                        },
+                        "rouge-2": {
+                            "f": 0.026200871486051124,
+                            "p": 0.014634146341463415,
+                            "r": 0.125
+                        },
+                        "rouge-l": {
+                            "f": 0.08383233286815597,
+                            "p": 0.04895104895104895,
+                            "r": 0.2916666666666667
+                        }
+                    },
+                    "metor": 0.22,
+                    "bert": {
+                        "Precision": 0.8039769530296326,
+                        "Recall": 0.8723104596138,
+                        "F1": 0.836750864982605
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "How do I know if I'm actually depressed or not?",
+        "source_sentence": [
+            "1. Encourage self-care practices - regular exercise, healthy diet, adequate rest, avoiding alcohol, drugs or other harmful substances. These simple steps could help improve mood and energy levels significantly.\n        2. Stay connected with loved ones - Reach out to family and friends for support, even though it might feel difficult at first. Isolation is often a symptom of depression, so maintaining social connections can make a big difference.\n        3. Consider seeking professional help - Depression is a treatable condition. A mental health professional or counselor trained in therapy methods such as Cognitive Behavioral Therapy or Psychodynamic Therapy, among others, will be best equipped to provide guidance and support during this challenging journey towards improved mental health. Don't hesitate to ask for help when needed.\n        4. Engaging in enjoyable activities - Try finding joy in small things, hobbies or pastimes that bring pleasure, even if they seem trivial initially. This can serve as a powerful reminder of one’s ability to enjoy life despite difficult moments.\n        5. Setting realistic goals – Break larger tasks into smaller manageable pieces and set achievable milestones for accomplishing them. The sense of progress and achievement can greatly enhance motivation and overall morale.\n        6. Practicing mindfulness meditation - Focused attention and relaxation techniques can reduce anxiety, stress and negative thinking. Regular practice helps train the mind to focus on the present moment instead of worrying about the future or ruminating over past regrets.\n        7. Maintaining perspective - Remember that everyone experiences ups and downs throughout their lives, including periods of sadness or despair. While these feelings can be uncomfortable, they are temporary and part of being human. Keeping this broader context in mind can prevent catastrophizing thoughts and promote resilience against adversity.\n        8. Seeking spiritual growth - Exploring beliefs and values beyond material possessions and focusing on personal development can lead to increased meaning, purpose, and fulfillment in life. Connecting with religious/spiritual communities, studying philosophy, or practicing daily reflection exercises can foster a deeper understanding of oneself and the world around us."
+        ],
+        "sentences": [
+            "There is no one answer to this question, as everyone's experience with depression can vary. A mental health professional can provide a diagnosis and help you understand your feelings."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 456,
+                    "prompt_tokens": 608,
+                    "total_tokens": 1064
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10380622662372338,
+                            "p": 0.05747126436781609,
+                            "r": 0.5357142857142857
+                        },
+                        "rouge-2": {
+                            "f": 0.016620497184030324,
+                            "p": 0.009009009009009009,
+                            "r": 0.10714285714285714
+                        },
+                        "rouge-l": {
+                            "f": 0.0899653961738964,
+                            "p": 0.04980842911877394,
+                            "r": 0.4642857142857143
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.7790356874465942,
+                        "Recall": 0.875337541103363,
+                        "F1": 0.8243837356567383
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "Should I tell people about me going to the ER for suicidal thoughts?",
+        "source_sentence": [
+            " Based on the provided information, here are my answers to the user's question:\n\n         First, let me emphasize that if you are having suicidal thoughts, it's essential that you reach out to someone who can help immediately. Whether that person is a trusted friend, family member, or mental health professional, do not keep these feelings to yourself. You deserve support and understanding during this challenging time.\n\n         Regarding your concern about disclosing your suicide ideation to others, consider confiding in someone you trust and who has shown signs of being emotionally supportive. While it's normal to feel apprehensive about sharing such intimate details, remember that your safety and wellbeing are paramount. Additionally, speaking openly about your experiences could lead to valuable connections and opportunities for growth within relationships.\n\n         Furthermore, reaching out to professionals who previously diagnosed you with ADHD and OCD may also prove beneficial when addressing any current mental health struggles. These individuals likely have a deeper understanding of your unique background and can collaborate more effectively with you to develop appropriate interventions.\n\n         Lastly, regarding hearing voices, please take this seriously and prioritize seeking help from mental health professionals. Voices that direct you to harm yourself warrant urgent attention, as they pose significant risks to your safety. Remember that you are not alone in your experience, and numerous resources are available to offer guidance and support throughout your journey towards healing."
+        ],
+        "sentences": [
+            "If you are struggling with suicidal thoughts, it is important to reach out for help. Whether or not you choose to share this with others is a personal decision, but do not hesitate to seek support."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 295,
+                    "prompt_tokens": 1205,
+                    "total_tokens": 1500
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1846153820118343,
+                            "p": 0.10909090909090909,
+                            "r": 0.6
+                        },
+                        "rouge-2": {
+                            "f": 0.038910503483777344,
+                            "p": 0.02252252252252252,
+                            "r": 0.14285714285714285
+                        },
+                        "rouge-l": {
+                            "f": 0.17435897175542409,
+                            "p": 0.10303030303030303,
+                            "r": 0.5666666666666667
+                        }
+                    },
+                    "metor": 0.3,
+                    "bert": {
+                        "Precision": 0.8080032467842102,
+                        "Recall": 0.8947808146476746,
+                        "F1": 0.8491808176040649
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "I feel like I have to be promiscuous in order to feel wanted and loved. Is this normal?",
+        "source_sentence": [
+            " Insights:\n        Feeling a strong desire to be desired or loved by others is a common human emotion. In today's world, where external validation often comes in the form of likes and followers, it can be especially challenging to navigate our own self-worth and value as individuals. The pressure to conform to societal expectations regarding relationships and intimacy only adds to this complexity.\n\n        Remember that true love and acceptance come from within. While external affirmation can certainly help bolster our confidence and self-esteem, they should never be seen as substitutes for our own belief in ourselves and our inherent value as humans. Focusing too much attention on seeking outside approval can lead to negative consequences such as low self-confidence and unhealthy relationships built upon a foundation of superficiality rather than genuine connection and respect.\n\n        To cultivate a deeper understanding of oneself and develop a solid sense of self-love and self-acceptance, consider practicing mindfulness meditation regularly. This practice involves focusing solely on the present moment without judgment and allowing thoughts and emotions to pass through without attachment or reaction. Mindfulness has been shown to improve overall wellbeing and resilience against stressors both emotional and situational (Keng et al., 2011).\n\n        Additionally, engaging in activities that foster personal growth and promote a positive self-image, such as hobbies or creative pursuits, exercise, reading inspiring literature, connecting with nature, or volunteering in one's community, can contribute significantly towards nurturing a strong and healthy sense of self-worth and self-value.\n\n        Seek support from trusted friends and/or professionals if needed. Talking openly about your feelings and exploring potential underlying causes with someone objective yet caring can offer valuable insight and guidance in navigating these complex issues surrounding identity, self-concept, and interpersonal relationships.\n\n        References:\n        Keng, S. M., Smoski, M. J., Schumacher, C., Binkele-Ressler, Z., Garland, E. L., & Welch, A. T. (2011). Effectiveness of mindfulness-based stress reduction (MBSR) in reducing symptoms of stress in women: A systematic review. Journal of Psychoactive Drugs, 43(6), 579–588."
+        ],
+        "sentences": [
+            "There is no 'right' or 'wrong' answer to this question. Feelings of wanting to feel wanted and loved are common, but if these feelings are causing distress, it may be helpful to speak to a therapist."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 409,
+                    "total_tokens": 909
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.09352517781895352,
+                            "p": 0.052845528455284556,
+                            "r": 0.40625
+                        },
+                        "rouge-2": {
+                            "f": 0.00558659041462557,
+                            "p": 0.0030959752321981426,
+                            "r": 0.02857142857142857
+                        },
+                        "rouge-l": {
+                            "f": 0.07194244400600389,
+                            "p": 0.04065040650406504,
+                            "r": 0.3125
+                        }
+                    },
+                    "metor": 0.17,
+                    "bert": {
+                        "Precision": 0.7702372074127197,
+                        "Recall": 0.8659719228744507,
+                        "F1": 0.8153038620948792
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "I feel lazy and numb. I have no interest in things I used to enjoy. What's happening to me?",
+        "source_sentence": [
+            "1. You might be experiencing symptoms of depression. Please consider speaking with a healthcare provider as soon as possible. They can assess whether medication or therapy would benefit you and offer resources for coping during this challenging period.\n      2. Feeling numb and lacking motivation can be a common symptom of depression. Try reaching out to trusted friends or family members, they might be able to offer support and understanding. Alternatively, joining a local support group or seeking guidance from a therapist or counselor can be helpful in working through these emotions.\n      3. Exploring hobbies or activities that once brought joy but now seem mundane or irrelevant might reveal newfound meaning when approached with fresh eyes. Reflect upon previous interests and consider trying them again with a new perspective.\n      4. Engaging in self-care practices such as mindfulness meditation, journaling, or physical activity can improve overall wellbeing and foster a greater sense of connection with oneself and one's surroundings.\n      5. Setting small achievable goals and breaking larger projects into manageable parts can alleviate feelings of overwhelm and increase motivation and productivity.\n      6. Seek inspiration from positive influences such as books, movies, or podcasts that resonate deeply and fuel personal growth.\n      7. Cultivate meaningful relationships by connecting with supportive individuals and engaging in open conversations that promote emotional healing and personal development.\n      8. Embrace vulnerability and allow yourself to feel uncomfortable at times as this can lead to valuable learning experiences and opportunities for growth.\n      9. Consider implementing daily routines or rituals that prioritize self-care and nurture emotional resilience. These habits can serve as powerful tools in managing stress and maintaining overall wellbeing."
+        ],
+        "sentences": [
+            "You may be experiencing depression or a loss of interest in activities you once enjoyed. It can be helpful to talk to a mental health professional about how you are feeling."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 363,
+                    "prompt_tokens": 642,
+                    "total_tokens": 1005
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1261261239895301,
+                            "p": 0.07179487179487179,
+                            "r": 0.5185185185185185
+                        },
+                        "rouge-2": {
+                            "f": 0.020477813861547768,
+                            "p": 0.011406844106463879,
+                            "r": 0.1
+                        },
+                        "rouge-l": {
+                            "f": 0.11711711498052108,
+                            "p": 0.06666666666666667,
+                            "r": 0.48148148148148145
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.794865608215332,
+                        "Recall": 0.9079166054725647,
+                        "F1": 0.8476383090019226
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    },
+    {
+        "question": "I can't understand my brain at all, I need help.",
+        "source_sentence": [
+            "1) You might consider keeping a journal of your thoughts and feelings to better understand patterns and triggers.\n         2) Reach out to trusted friends or family members for support and insight.\n          3) Explore therapy options such as cognitive behavioral therapy (CBT), psychodynamic therapy, or acceptance and commitment therapy (ACT). These therapies can offer tools and techniques to help improve emotional awareness and understanding of thought processes.\n          4) Educate yourself by reading books or taking online courses related to psychology and neurobiology.\n          5) Try practicing relaxation techniques such as deep breathing or meditation daily to promote clearer thinking and focus.\n          6) Consider reaching out to professionals such as a psychiatrist or therapist for additional guidance and support. Remember that asking for help is a sign of strength!\n          7) Lastly, be patient with yourself during this process. Understanding our brains takes time and effort but ultimately leads to greater self-awareness and personal growth."
+        ],
+        "sentences": [
+            "There could be many reasons why you are struggling to understand your thoughts and feelings. A mental health professional can help you navigate these challenges."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 204,
+                    "prompt_tokens": 341,
+                    "total_tokens": 545
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.13043477973534975,
+                            "p": 0.07894736842105263,
+                            "r": 0.375
+                        },
+                        "rouge-2": {
+                            "f": 0.03508771688519561,
+                            "p": 0.02040816326530612,
+                            "r": 0.125
+                        },
+                        "rouge-l": {
+                            "f": 0.11594202611216138,
+                            "p": 0.07017543859649122,
+                            "r": 0.3333333333333333
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.7678684592247009,
+                        "Recall": 0.8800944685935974,
+                        "F1": 0.8201602101325989
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-111031"
+    }
+]

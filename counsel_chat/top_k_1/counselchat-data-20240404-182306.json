@@ -1,0 +1,472 @@
+[
+    {
+        "question": "My wife and mother are having tense disagreements and it's affecting our family. What can I do?",
+        "source_sentence": [
+            " Insights: It sounds like you're experiencing some tension between your wife and mother that is negatively impacting your whole family. Mediating disputes and encouraging open communication are important steps towards resolving conflicts within families. However, remember that as a neutral third party, you may not always have all the information or fully understand both perspectives. In this case, offering emotional support and creating opportunities for constructive conversation without taking sides will show your commitment to fostering harmony in the household while ensuring the respectful expression of emotions by all involved parties.\n\n         Suggestion: Consider hosting a family meeting where everyone present expresses their feelings openly but respectfully. Encourage active listening during conversations and acknowledge the validity of every emotion felt by all members. By establishing clear boundaries for appropriate communication and maintaining an unbiased stance throughout, you will create an environment conducive to healing relationships and promoting mutual understanding among loved ones."
+        ],
+        "sentences": [
+            "What you are describing is something psychologists call triangulation. It's a scenario where two parties in conflict attempt to bring in a third party to mediate or take sides. It's important for you to communicate your feelings about being put in the middle."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 192,
+                    "prompt_tokens": 255,
+                    "total_tokens": 447
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.19512194779298042,
+                            "p": 0.125,
+                            "r": 0.4444444444444444
+                        },
+                        "rouge-2": {
+                            "f": 0.010471200757655794,
+                            "p": 0.006711409395973154,
+                            "r": 0.023809523809523808
+                        },
+                        "rouge-l": {
+                            "f": 0.17073170389054143,
+                            "p": 0.109375,
+                            "r": 0.3888888888888889
+                        }
+                    },
+                    "metor": 0.31,
+                    "bert": {
+                        "Precision": 0.8239039182662964,
+                        "Recall": 0.8703396916389465,
+                        "F1": 0.846485435962677
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "I'm planning to have a baby, so I have to quit smoking. How can I stop?",
+        "source_sentence": [
+            "1. Create a list of things you enjoy doing or want to explore instead of smoking, such as painting, reading, hiking, playing musical instruments, or spending time with loved ones.\n2. Practice positive affirmations daily, reminding yourself that you are deserving of good health and that you are making progress toward being the best version of yourself.\n3. Identify potential triggers for smoking, such as emotional stress, certain people or places, and develop strategies to cope with these triggers without turning to cigarettes.\n4. Seek support from friends, family members, or professionals, whether through therapy sessions, support groups, or online communities. Remember that asking for help does not mean weakness but strength.\n5. Utilize relaxation techniques such as deep breathing exercises, meditation, or progressive muscle relaxation to manage stress levels and reduce cravings.\n6. Focus on taking small steps each day towards achieving your goal and celebrate every victory along the way!\n\nRemember, quitting smoking takes determination and effort but with patience and persistence, you can overcome this challenge and become a proud parent who models a healthy lifestyle for your child. Good luck!\n\nAs a therapist, I understand how challenging it can be to quit smoking, especially during pregnancy due to additional stressors involved. However, by creating a comprehensive plan addressing various aspects of your life, focusing on positive reinforcement, and seeking external support systems, you are setting yourself up for success in reaching your goal and ensuring a healthy environment for your developing infant. Please reach out if you require further assistance or guidance throughout this process."
+        ],
+        "sentences": [
+            "Hi. Good for you in planning ahead to do what's best for your future child. Understanding your triggers for smoking and finding healthier ways to cope can be a good start."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 329,
+                    "prompt_tokens": 527,
+                    "total_tokens": 856
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1461187192994308,
+                            "p": 0.08333333333333333,
+                            "r": 0.5925925925925926
+                        },
+                        "rouge-2": {
+                            "f": 0.028776976491900134,
+                            "p": 0.016129032258064516,
+                            "r": 0.13333333333333333
+                        },
+                        "rouge-l": {
+                            "f": 0.1461187192994308,
+                            "p": 0.08333333333333333,
+                            "r": 0.5925925925925926
+                        }
+                    },
+                    "metor": 0.24,
+                    "bert": {
+                        "Precision": 0.815879762172699,
+                        "Recall": 0.8806308507919312,
+                        "F1": 0.847019612789154
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "I have secrets in my mind, and I don't know whether I should share them with my family or not.",
+        "source_sentence": [
+            "1) The act of confession can be healing for both parties involved . It allows us to release emotional burden while giving our loved ones the opportunity to show support and love . This can lead to greater closeness in relationships .\n        2) Consider sharing smaller details first before disclosing big secrets - this could help ease any initial anxiety around opening up and allow trust between you and your family members to build gradually over time . \n        3) Be clear about why you feel unsafe or hesitant to discuss certain matters with your family. They might respond more positively if they understand the reasons behind your reluctance.\n        4) Remember that everyone makes mistakes and goes through challenging situations; accepting ourselves and others for who we truly are is essential for maintaining healthy relationships.\n        5) Reflect on how long you've held onto these secrets, and ask yourself whether continuing to keep them hidden would benefit your personal growth and overall wellbeing.\n        6) Seek professional guidance from therapists, counselors, or trusted individuals when needed. Confiding in someone outside of your immediate family circle may offer additional perspective and understanding without causing unnecessary tension within the family unit.\n        7) Lastly, remember that there's no right or wrong decision regarding whether or not to share your secrets with your family. Trusting your instincts, taking small steps towards openness, and prioritizing self-care will all contribute to making decisions that best serve your needs as an individual."
+        ],
+        "sentences": [
+            "It sounds like keeping the secrets has become a burden for you. Sharing might help relieve some of that weight, but consider the potential impacts on your relationships."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 304,
+                    "prompt_tokens": 146,
+                    "total_tokens": 450
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11764705667861021,
+                            "p": 0.06701030927835051,
+                            "r": 0.48148148148148145
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.11764705667861021,
+                            "p": 0.06701030927835051,
+                            "r": 0.48148148148148145
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.7825596332550049,
+                        "Recall": 0.8810272812843323,
+                        "F1": 0.8288793563842773
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "I am extremely possessive in my relationships and it's causing problems. How can I change?",
+        "source_sentence": [
+            "1) Insecure attachments (Anxiety and Fear): Individuals who have insecure attachment styles may feel intense jealously and fear when they perceive threats to their relationship. They often have a strong need for reassurance and close contact with their partner as a means of coping with anxiety. To address this issue, try practicing mindfulness meditation or deep breathing exercises to help manage feelings of anxiety and fear. It is also helpful to identify triggers that cause possessive thoughts and behaviors and challenge them through cognitive restructuring techniques such as positive self-talk and reality testing. Finally, seek out supportive social networks and engage in activities outside of your romantic relationship to build confidence and improve overall wellbeing.\n\n        2) Communication and Trust: Effective communication skills are essential for building trust within any relationship. Practice expressing yourself clearly and respectfully while actively listening to your partner’s perspective. Avoid making assumptions about your partner’s intentions and ask open questions instead. Additionally, be transparent and honest in your actions to foster a sense of mutual trust. By working together to establish clear boundaries, both partners will feel more secure and less possessive over one another.\n\n        3) Emotional Intelligence and Empathy: Developing emotional intelligence and empathic abilities can lead to greater understanding of your own emotions and those of your partner. Practicing active listening, validating your partner’s feelings, and responding appropriately to emotional cues helps create stronger bonds between individuals. Moreover, being aware of how your words and actions might affect others and learning to regulate your emotions effectively can reduce instances of possessive behavior.\n\n        4) Seek Professional Help: If your possessiveness persists despite your efforts, consider seeking professional help. A mental health counselor, psychologist, or therapist can offer guidance, support, and effective strategies tailored specifically to your unique situation. They can assist you in identifying the underlying causes of your possessiveness and developing healthy ways to cope with challenging emotions and situations."
+        ],
+        "sentences": [
+            "Hi there. It's great you are able to realize this trait about yourself. Understanding the root causes of your possessiveness, such as past traumas or insecurities, can help in addressing it."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 414,
+                    "prompt_tokens": 219,
+                    "total_tokens": 633
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.12213740249373582,
+                            "p": 0.06926406926406926,
+                            "r": 0.5161290322580645
+                        },
+                        "rouge-2": {
+                            "f": 0.017857141230867495,
+                            "p": 0.00980392156862745,
+                            "r": 0.1
+                        },
+                        "rouge-l": {
+                            "f": 0.12213740249373582,
+                            "p": 0.06926406926406926,
+                            "r": 0.5161290322580645
+                        }
+                    },
+                    "metor": 0.28,
+                    "bert": {
+                        "Precision": 0.8011330366134644,
+                        "Recall": 0.8757545351982117,
+                        "F1": 0.8367835283279419
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "I had a head injury a few years ago and my mind hasn't been the same since. Can I control anxiety without medication?",
+        "source_sentence": [
+            "1. Yes, there are several ways you can manage and reduce anxiety without relying solely on medications. Here are some techniques that might be helpful for you:\n\n        2. Mindfulness practices: Mindfulness meditation, deep breathing exercises or progressive muscle relaxation can help you become more aware of your thoughts and feelings without judgment. These practices can also promote relaxation and calmness in the body.\n\n        3. Lifestyle modifications: Regular physical activity, healthy eating habits, adequate sleep, avoiding caffeine and alcohol, and engaging in activities you enjoy can all contribute positively to managing anxiety symptoms.\n\n        4. Cognitive-behavioral strategies: Learning how to identify negative thought patterns, challenge them with evidence and replace them with positive ones can be effective in reducing anxiety. This involves understanding the relationship between thoughts, emotions, and behaviors.\n\n        5. Social support: Connecting with supportive people such as friends, family members or joining a therapy group can make a significant difference in your journey towards managing anxiety. Having someone who understands what you're going through can be incredibly reassuring and encouraging.\n\n        6. Professional therapy: Working one-on-one with a therapist trained in cognitive-behavioral therapies (CBT) or other evidenced-based approaches like Acceptance Commitment Therapy (ACT), Dialectical Behavior Therapy (DBT), or Eye Movement Desensitization and Reprocessing (EMDR) can be beneficial if your anxiety continues to interfere significantly with your daily functioning despite trying self-help methods. Remember that seeking professional help does not mean you're weak but rather taking a step towards better understanding yourself and finding solutions tailored specifically to your needs.\n\n        Please note that everyone's experience with anxiety is unique, so what works best will depend upon individual circumstances. You may need to try various approaches before finding what truly resonates with you. And remember that change takes time – be patient with yourself throughout this process!\n    The following information summarizes key points from previous responses and adds additional details.\n    \n    To effectively respond to users with questions regarding anxiety management without medication, consider addressing the following topics:\n\n    1. Acknowledgement of anxiety as normal yet challenging emotion\n    2. Discussion on various coping mechanisms and lifestyle changes\n       - Mindfulness practices (meditation, deep breathing, etc"
+        ],
+        "sentences": [
+            "You didn't say what or how many medications you've tried. There are non-medication strategies like cognitive behavioral therapy, mindfulness, and exercise that can help manage anxiety."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 113,
+                    "total_tokens": 613
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.09154929411128747,
+                            "p": 0.050387596899224806,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.005420052937331836,
+                            "p": 0.0029069767441860465,
+                            "r": 0.04
+                        },
+                        "rouge-l": {
+                            "f": 0.09154929411128747,
+                            "p": 0.050387596899224806,
+                            "r": 0.5
+                        }
+                    },
+                    "metor": 0.2,
+                    "bert": {
+                        "Precision": 0.7720189094543457,
+                        "Recall": 0.8750209212303162,
+                        "F1": 0.8202991485595703
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "I want a secure relationship with someone that I'm truly in love with. How can I achieve this?",
+        "source_sentence": [
+            "1. Self-awareness and self-care: Understand your own needs, values, and desires by introspection and practicing self-compassion regularly (from document).\n2. Emotional intelligence: Develop emotional awareness and regulation skills to better navigate relationships and respond effectively to others' feelings (implied from document).\n3. Open communication: Share vulnerabilities and listen actively when communicating with potential partners (from real world advice).\n4. Patience and trust: Allow time for connections to develop naturally without rushing or expectations (from real world advice).\n5. Seek compatible values and goals: Look for a partner who shares similar core beliefs and aspirations as yourself (real world advice).\n6. Set healthy boundaries: Ensure respectful interactions and maintain personal autonomy within the relationship (real world advice).\n7. Nurture emotional safety: Create a caring environment where both parties feel emotionally supported and understood (real world advice).\n8. Practice forgiveness and understanding: Acknowledge mistakes and work towards resolution while showing compassion and patience towards each other (real world advice).\n\nAs a therapist, it's important to acknowledge how challenging finding a fulfilling relationship can be at times. The journey involves continuous self-exploration and growth along with open and honest communication with our partners. Remember that every person brings unique experiences and perspectives into a relationship, which contributes to its richness and complexity. Trust in the process and believe that ultimately, fostering genuine self-love and seeking compatibility will lead to a strong and nourishing bond with another human being."
+        ],
+        "sentences": [
+            "It is a good thing that you have recognized the pattern in your relationships. Building a secure relationship starts with understanding your own attachment style and working on areas that might lead to insecurities."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 327,
+                    "prompt_tokens": 137,
+                    "total_tokens": 464
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11483253335866858,
+                            "p": 0.06741573033707865,
+                            "r": 0.3870967741935484
+                        },
+                        "rouge-2": {
+                            "f": 0.01556420009629247,
+                            "p": 0.008928571428571428,
+                            "r": 0.06060606060606061
+                        },
+                        "rouge-l": {
+                            "f": 0.10526315536823797,
+                            "p": 0.06179775280898876,
+                            "r": 0.3548387096774194
+                        }
+                    },
+                    "metor": 0.23,
+                    "bert": {
+                        "Precision": 0.8071780800819397,
+                        "Recall": 0.867614209651947,
+                        "F1": 0.8363056778907776
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "I easily recognize my negative thinking patterns but have no control over them. What can I do?",
+        "source_sentence": [
+            "1. Cognitive Behavioral Therapy (CBT): This is a type of psychotherapy that focuses on changing negative thought patterns by recognizing and challenging destructive or disturbing thought processes and behaviors. It involves identifying and analyzing those patterns, understanding why they occur and what triggers them, and then applying techniques to alter or replace negative thoughts with more positive ones. You might consider working with a therapist who specializes in this approach.\n      2. Mindfulness Meditation: Practicing mindfulness meditation regularly can help improve focus and awareness, allowing you to better identify and respond to negative thought patterns as they arise. In doing so, it becomes easier to interrupt these thought cycles before they become fully ingrained and difficult to overcome. Try finding resources online or locally for guidance in getting started with mindfulness practice.\n      3. Exercise Regularly: Engaging in regular physical activity has been shown to reduce symptoms associated with depression and anxiety disorders, which often co-occur with negative thought patterns. Aim for at least 30 minutes most days of the week.\n      4. Balanced Diet: Maintaining a healthy diet rich in whole grains, fruits, vegetables, lean proteins, and healthy fats supports overall brain function and emotional wellbeing, making it less likely that negative thought patterns will take hold.\n      5. Sleep Hygiene: Prioritizing good sleep hygiene practices such as setting consistent bedtimes and avoiding caffeine intake close to bedtime can lead to better quality rest, helping strengthen resilience against negative thought patterns during waking hours.\n      6. Social Connection: Building strong relationships with friends and family members fosters feelings of love and support that counteract negative thought patterns. Make time each day for activities that foster meaningful social interaction.\n      7. Self-Compassion: Show yourself kindness and compassion when confronted with negative self-talk or thought patterns. Remember that everyone experiences struggles and setbacks at times, and that imperfection is a natural part of being human. Practice talking to yourself as if offering comfort and encouragement to a dear friend."
+        ],
+        "sentences": [
+            "I suggest that you work on emotional awareness. Understanding the emotions that trigger these thoughts can help you develop strategies to manage them better."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 439,
+                    "prompt_tokens": 120,
+                    "total_tokens": 559
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.08494208338754643,
+                            "p": 0.046413502109704644,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.006060604763820295,
+                            "p": 0.003257328990228013,
+                            "r": 0.043478260869565216
+                        },
+                        "rouge-l": {
+                            "f": 0.0772200756655387,
+                            "p": 0.04219409282700422,
+                            "r": 0.45454545454545453
+                        }
+                    },
+                    "metor": 0.18,
+                    "bert": {
+                        "Precision": 0.7882382869720459,
+                        "Recall": 0.8908828496932983,
+                        "F1": 0.8364232182502747
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "It takes me a long time to fall asleep; I’d estimate around two hours each night. What can I do?",
+        "source_sentence": [
+            "1. Based on the information provided in the document, what advice would you give the user regarding falling asleep quickly?\n           You might want to consider implementing some relaxation techniques before going to bed as part of a nightly routine. This could include activities such as reading a book or taking a relaxing bath. Additionally, avoiding caffeine and alcohol close to bedtime and ensuring that your environment is conducive to sleeping (dark and quiet) may also be helpful. If despite these efforts, falling asleep remains challenging, getting up and doing a quiet activity until feeling drowsy again might be beneficial. Remember that it's normal for everyone to have occasional difficulty falling asleep, but persistent issues should be addressed with a healthcare professional. In addition to these tips, practicing mindfulness meditation or deep breathing exercises before bed might also be effective ways to promote better sleep quality. The key takeaway here is creating a restful environment both physically and mentally before attempting to drift off into slumber."
+        ],
+        "sentences": [
+            "First of all, exercise is always beneficial for sleep. Also, establishing a consistent bedtime routine and limiting screen time before bed can help improve your sleep quality."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 199,
+                    "prompt_tokens": 223,
+                    "total_tokens": 422
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.16774193269177945,
+                            "p": 0.10077519379844961,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.021276593361249704,
+                            "p": 0.012345679012345678,
+                            "r": 0.07692307692307693
+                        },
+                        "rouge-l": {
+                            "f": 0.1548387068853278,
+                            "p": 0.09302325581395349,
+                            "r": 0.46153846153846156
+                        }
+                    },
+                    "metor": 0.27,
+                    "bert": {
+                        "Precision": 0.8310078382492065,
+                        "Recall": 0.8944500088691711,
+                        "F1": 0.8615625500679016
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "What do you do when a therapist and a parent disagree on the direction of a child's treatment?",
+        "source_sentence": [
+            " Insights for User: It seems we have a complex issue at hand where two significant figures in a child's life hold opposing views concerning their therapy. While disagreements between parents and professionals aren't uncommon, escalating situations involving potential breaches of ethics require thoughtful consideration. In instances like these, communication becomes crucial. You might consider arranging a meeting between both parties to discuss any concerns openly and respectfully. This dialogue could help clear misunderstandings and allow both sides to understand each other's perspectives. Remember, every child deserves the best care possible, so focusing on what's truly beneficial for them should remain the priority. If tensions continue to rise or if there are serious allegations being made, reaching out to professional organizations or legal authorities may be necessary to protect all involved. Additionally, seeking advice from trusted colleagues, mentors, or support groups can provide valuable guidance during challenging times."
+        ],
+        "sentences": [
+            "I will admit I am confused about this question. The direction of a child's treatment should ideally be a collaborative discussion involving the therapist, the parent, and sometimes even the child."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 190,
+                    "prompt_tokens": 460,
+                    "total_tokens": 650
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11249999719453133,
+                            "p": 0.06766917293233082,
+                            "r": 0.3333333333333333
+                        },
+                        "rouge-2": {
+                            "f": 0.0113636335356412,
+                            "p": 0.00684931506849315,
+                            "r": 0.03333333333333333
+                        },
+                        "rouge-l": {
+                            "f": 0.04999999719453141,
+                            "p": 0.03007518796992481,
+                            "r": 0.14814814814814814
+                        }
+                    },
+                    "metor": 0.23,
+                    "bert": {
+                        "Precision": 0.8295031785964966,
+                        "Recall": 0.8723751306533813,
+                        "F1": 0.8503991365432739
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    },
+    {
+        "question": "They're calling me names like hypocrite and a fraud at school. How should I deal with this?",
+        "source_sentence": [
+            " how you're feeling. Sometimes just being able to vent about what's happening can make things feel better.\n\n-If the bullying continues despite your attempts to address it, consider reaching out for extra support from teachers, counselors, or other adults you trust.\n\nRemember, it's natural to want to fit in at school and not be seen as different. But if others are judging you unfairly, then they may have some deeper issues themselves. Don't let their negative words bring you down. Stay true to yourself and remember that there are always people who care about you and value who you are. It takes courage to stand up for yourself, so give yourself credit for trying to handle this situation in a positive way. And please don't hesitate to reach out if you need more guidance or support. You deserve to feel happy and respected, even at school."
+        ],
+        "sentences": [
+            "It sounds like you're confused as to why your friends would call you these names. Reflecting on your actions and having open conversations with them might help clear up any misunderstandings."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 185,
+                    "prompt_tokens": 257,
+                    "total_tokens": 442
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11034482430439962,
+                            "p": 0.06956521739130435,
+                            "r": 0.26666666666666666
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.09655172085612378,
+                            "p": 0.06086956521739131,
+                            "r": 0.23333333333333334
+                        }
+                    },
+                    "metor": 0.18,
+                    "bert": {
+                        "Precision": 0.8331979513168335,
+                        "Recall": 0.8604772686958313,
+                        "F1": 0.8466179370880127
+                    }
+                }
+            }
+        ],
+        "filename": "counselchat-data-20240404-182306"
+    }
+]

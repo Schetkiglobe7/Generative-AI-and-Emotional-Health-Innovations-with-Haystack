@@ -1,0 +1,472 @@
+[
+    {
+        "question": "I'm going through some things with my feelings and myself. I've talked to many people but I can't seem to talk to my parents about it. I've thought about suicide but I don't want to worry anyone. What should I do?",
+        "source_sentence": [
+            "1. Reassure the user they are not alone and that seeking professional help is a brave step towards addressing their emotional struggles.\n        2. Encourage open communication with trusted individuals such as parents when they feel ready and safe to do so. Provide suggestions on how to approach this delicate subject, emphasizing the importance of honesty and vulnerability during the conversation.\n        3. Highlight the potential benefits of therapy and share resources for finding suitable professionals near them (if available).\n        4. Validate their fears and offer understanding and reassurance regarding common concerns surrounding sharing sensitive information with parents or causing additional stress within the family unit.\n        5. Emphasize the significance of self-care practices, including positive affirmations, mindfulness exercises, healthy diet, regular exercise, and maintaining connections with supportive friends and peers.\n        6. Remind the user that taking care of their mental health is crucial and that there are various ways to get help beyond speaking directly with their parents, such as online support groups, anonymous hotlines, or reaching out to other trusted adults, teachers, or school counselors.\n        7. Offer words of encouragement, reminding them that recovery is a process and progress takes time; every step taken toward improving one’s mental wellbeing contributes significantly to overall happiness and resilience."
+        ],
+        "sentences": [
+            "If everyone thinks you're worthless, then maybe you could benefit from some counseling to help you understand why you feel this way about yourself. It's very important to understand the root of your feelings in order to begin changing them."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 275,
+                    "prompt_tokens": 1394,
+                    "total_tokens": 1669
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.07329842632603285,
+                            "p": 0.04487179487179487,
+                            "r": 0.2
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.07329842632603285,
+                            "p": 0.04487179487179487,
+                            "r": 0.2
+                        }
+                    },
+                    "metor": 0.17,
+                    "bert": {
+                        "Precision": 0.7805706262588501,
+                        "Recall": 0.8485931158065796,
+                        "F1": 0.8131617903709412
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I have so many issues to address. I have a history of child abuse, domestic violence, and betrayal by family members. I also struggle with addiction. I am overwhelmed and don't know where to start. Can you help?",
+        "source_sentence": [
+            "----------------------\n\n        Based on the information provided in both the context and the related information, it sounds like you are going through a very difficult time dealing with past traumas and current challenges in your household due to addiction. Coping with such complex issues requires strength and self-care. Here are some suggestions from me as a therapy guide:\n\n        1. Reach out for support: Speak with trusted friends or professionals about what you're experiencing. You do not need to carry this burden alone. Support groups and hotlines can offer additional guidance and resources tailored specifically to survivors of childhood abuse, domestic violence, and addiction.\n\n        2. Focus on personal growth: While others might need to take responsibility for their actions, focus on improving your own emotional resilience and healing. Practicing mindfulness meditation, yoga, journaling, and engaging in activities you enjoy can contribute positively to your wellbeing.\n\n        3. Create healthy boundaries: Set clear boundaries for unhealthy relationships and interactions. This may mean limiting contact with abusive family members or seeking professional assistance if necessary. Remember that setting these boundaries is essential for protecting your mental health.\n\n        4. Learn about trauma and addiction recovery: Educating yourself about trauma and addiction recovery processes can increase understanding and reduce feelings of helplessness. Research evidence-based practices, read books, attend workshops, and engage in online communities dedicated to healing from similar experiences.\n\n        5. Practice self-compassion: Be gentle and compassionate towards yourself during this process. Trauma and addiction affect us all differently, but the journey towards healing is possible for everyone. Remember that healing takes time – be patient with yourself and allow emotions to surface when they arise without judgment."
+        ],
+        "sentences": [
+            "Let me start by saying there are never too many issues that you can address with counseling. However, it is important to start with one at a time. Starting with the one that is most pressing can help reduce your feelings of being overwhelmed."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 358,
+                    "prompt_tokens": 594,
+                    "total_tokens": 952
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.14166666405868059,
+                            "p": 0.08374384236453201,
+                            "r": 0.4594594594594595
+                        },
+                        "rouge-2": {
+                            "f": 0.006535945296895249,
+                            "p": 0.0038022813688212928,
+                            "r": 0.023255813953488372
+                        },
+                        "rouge-l": {
+                            "f": 0.12499999739201396,
+                            "p": 0.07389162561576355,
+                            "r": 0.40540540540540543
+                        }
+                    },
+                    "metor": 0.27,
+                    "bert": {
+                        "Precision": 0.7847350239753723,
+                        "Recall": 0.8493468165397644,
+                        "F1": 0.815763533115387
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I have been feeling more and more down for over a year. I've seen therapists but nothing seems to help. I'm losing hope. What else can I do?",
+        "source_sentence": [
+            " Based on the provided document, Laura suggests talking openly with your therapist about how you are feeling despite any nerves or discomfort. She also emphasizes the importance of making therapy a safe space where you feel supported to heal and move forward. Additionally, she recommends practicing deep breathing techniques to help alleviate anxiety. Remember, everyone’s experience with therapy is unique, and finding the right fit with a therapist takes time and effort. Don't give up hope just yet! It might also be worth considering sharing your feelings with trusted friends or family members, writing in a journal or even exploring mindfulness practices such as meditation or yoga. These actions can all serve as additional coping mechanisms to help improve overall emotional wellbeing. Take care and remember that reaching out for help is a sign of strength."
+        ],
+        "sentences": [
+            "sentences about our inner lives are most successfully discovered by oneself. A therapist will guide and suggest directions to consider in finding your sentences."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 162,
+                    "prompt_tokens": 2941,
+                    "total_tokens": 3103
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.12030074901916452,
+                            "p": 0.07272727272727272,
+                            "r": 0.34782608695652173
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.09022556104923972,
+                            "p": 0.05454545454545454,
+                            "r": 0.2608695652173913
+                        }
+                    },
+                    "metor": 0.19,
+                    "bert": {
+                        "Precision": 0.8187751770019531,
+                        "Recall": 0.8574870824813843,
+                        "F1": 0.8376840949058533
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I’m facing severe depression and anxiety and I don’t know how to cope with it. What should I do?",
+        "source_sentence": [
+            " Additional Resources:\n        Here are some additional resources that might be helpful:\n        Mental Health America (MHA): A national organization dedicated to helping those with mental illnesses recover and lead fulfilling lives. They offer various resources such as screening tests and information on treatment options. You can visit their website at www.mentalhealthamerica.net or call their helpline at 800-969-6642.\n        National Alliance on Mental Illness (NAMI): NAMI is another excellent resource for individuals experiencing mental health issues and their families. They offer education programs, support groups, and advocacy opportunities. Their helpline number is 800-950-6264.\n        Substance Abuse and Mental Health Services Administration (SAMHSA) Behavioral Health Treatment Locator: This free service allows users to search for behavioral health services by location, type of service sought, and specific population served (such as children or veterans). The hotline number is 877-726-4727 or TTY 800-487-4889.\n        Crisis Text Line: For immediate crisis intervention, text HOME to 741741 to connect with a trained volunteer counselor 24/7.\n        \n        Remember, taking care of your mental health is just as important as taking care of your physical health. It takes time and effort to make changes, so be patient and gentle with yourself throughout the process. Please let me know if there's anything else I can assist you with!"
+        ],
+        "sentences": [
+            "Have you used meditation or hypnosis? Relaxing the body and mind on a regular basis reduces anxiety and depression."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 348,
+                    "prompt_tokens": 653,
+                    "total_tokens": 1001
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.06818181634555791,
+                            "p": 0.0379746835443038,
+                            "r": 0.3333333333333333
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.056818179981921554,
+                            "p": 0.03164556962025317,
+                            "r": 0.2777777777777778
+                        }
+                    },
+                    "metor": 0.11,
+                    "bert": {
+                        "Precision": 0.7497584223747253,
+                        "Recall": 0.8462762236595154,
+                        "F1": 0.7950989007949829
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "How can I get to a place where I can be content or at least satisfied with my life?",
+        "source_sentence": [
+            " any perceived flaws or imperfections. Remember, everyone has areas they want to improve upon, and focusing too much on those can lead us down a path of dissatisfaction rather than satisfaction. Instead, focus on what you do like about yourself and build from there. It takes time and effort, but the rewards are worth it. Don't give up hope!\n\nAs a therapist, I understand that feeling unhappy or unfulfilled can be a challenging experience. It's important to remember that you are not alone in these feelings and that there are steps you can take to work toward greater contentment and overall well-being. Consider reaching out to trusted friends, family members, or even a professional counselor if you need additional support in navigating these emotions. Remember, it's okay to ask for help when you need it, and seeking assistance does not reflect weakness - quite the opposite, in fact. By acknowledging that you could benefit from outside perspective and guidance, you demonstrate strength and resilience. Best wishes on your journey toward greater happiness and fulfillment!"
+        ],
+        "sentences": [
+            "Your question is a fascinating one! As humans we have a tendency to always look for something that is missing, or focus on what needs improvement."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 220,
+                    "prompt_tokens": 688,
+                    "total_tokens": 908
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1161290296407909,
+                            "p": 0.06870229007633588,
+                            "r": 0.375
+                        },
+                        "rouge-2": {
+                            "f": 0.02051281827744929,
+                            "p": 0.011764705882352941,
+                            "r": 0.08
+                        },
+                        "rouge-l": {
+                            "f": 0.1161290296407909,
+                            "p": 0.06870229007633588,
+                            "r": 0.375
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.8165692687034607,
+                        "Recall": 0.8565219640731812,
+                        "F1": 0.8360685706138611
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I have a severe back problem. I've had 3 major surgeries, but I'm still in constant pain. It's affecting my mood and my family life. What can I do?",
+        "source_sentence": [
+            "1. Empathize with the user's situation and validate their feelings. \"It sounds like living with chronic back pain and constant discomfort has been incredibly challenging for you.\"\n        2. Encourage them to seek professional help if they haven't already done so. \"Consider speaking with your doctor about how you might be able to manage both your physical condition and the associated emotional challenges better. They could potentially prescribe medication or connect you with resources such as therapy sessions.\"\n        3. Offer alternative solutions if seeing a healthcare professional isn't immediately possible. \"In case seeking medical assistance right away isn't feasible, consider reaching out to local or national helplines or online support communities. These spaces offer opportunities to meet others who may be experiencing similar struggles and share experiences, advice, and coping strategies.\"\n        4. Remind the user that they aren't alone in facing these challenges and suggest practicing self-compassion. \"Remember, you're not alone; many individuals go through situations just like yours. Practice self-compassion by being kind to yourself during difficult moments, acknowledging that everyone experiences hardships, and understanding that taking care of your emotional needs will also contribute positively to managing your physical condition.\""
+        ],
+        "sentences": [
+            "Chronic pain at the back likely results from a physical problem which must be addressed by a medical professional."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 259,
+                    "prompt_tokens": 989,
+                    "total_tokens": 1248
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.1034482740071344,
+                            "p": 0.057692307692307696,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.08045976826000796,
+                            "p": 0.04487179487179487,
+                            "r": 0.3888888888888889
+                        }
+                    },
+                    "metor": 0.17,
+                    "bert": {
+                        "Precision": 0.7872040271759033,
+                        "Recall": 0.8768398761749268,
+                        "F1": 0.8296077847480774
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I suffer from adult ADHD, anxiety disorder, and I'm also very shy. This has made it hard for me to seek help. What kind of therapy would you recommend?",
+        "source_sentence": [
+            "1. Hello! It sounds like you're dealing with some complex challenges related to your Adult Attention Deficit Hyperactivity Disorder (ADHD), Anxiety Disorder, and shyness. Finding the right therapy approach for your unique situation can be crucial to making progress towards improved mental well-being. Based on the information provided, here are my recommendations.\n        2. Firstly, look for a therapist who specializes in treating adults with both ADHD and anxiety. They will possess the expertise required to address these two conditions simultaneously while being attuned to your individual needs. You might benefit greatly from Cognitive Behavioral Therapy (CBT) due to its evidence-based effectiveness in managing anxiety symptoms and addressing thought patterns associated with adult ADHD. Additionally, therapies specifically designed for anxiety, such as Exposure Therapy, could help alleviate social anxiety by gradually exposing you to fearful situations under controlled circumstances.\n        3. Since you mentioned feeling shy as another concern, consider finding a therapist experienced in Social Skills Training. This form of intervention focuses on developing practical skills necessary for effective interpersonal communication. By learning specific strategies tailored to your personality, you may become more confident when interacting with others.\n        4. Building a strong therapeutic relationship is essential, especially considering your history of anxiety and feelings of shyness. Find a therapist whose style resonates with you and whom you feel comfortable sharing vulnerable emotions and experiences with regularly.\n        5. To facilitate this process, begin by reaching out to trusted resources, including primary healthcare providers, local support groups, and professional organizations specializing in mental health services within your community. Remember, taking steps toward seeking help requires courage and persistence but ultimately leads to growth and self-improvement. Best wishes on your journey to better mental health!"
+        ],
+        "sentences": [
+            "If it is simply counseling that you seek, any therapist should be able to help you sift through these concerns."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 382,
+                    "prompt_tokens": 556,
+                    "total_tokens": 938
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.058091284854599634,
+                            "p": 0.03153153153153153,
+                            "r": 0.3684210526315789
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.058091284854599634,
+                            "p": 0.03153153153153153,
+                            "r": 0.3684210526315789
+                        }
+                    },
+                    "metor": 0.13,
+                    "bert": {
+                        "Precision": 0.7808760404586792,
+                        "Recall": 0.8449890613555908,
+                        "F1": 0.8116684556007385
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "A few years ago I was making love to my wife when I lost my erection and couldn't get it back. Ever since then I've had severe anxiety about sex. What can I do?",
+        "source_sentence": [
+            " Based on the information provided, it seems like there might be underlying emotional issues contributing to the anxiety around sexual intimacy. The first step would be to ensure that any potential medical causes have been ruled out through consultation with a healthcare professional. Once this has been done, both partners could benefit from engaging in open communication about feelings, fears, and doubts. This process of reflection and introspection could help identify potential sources of the issue, allowing for resolution and improvement in the intimate relationship. Additionally, considering seeking therapy or counseling to further explore emotional aspects of the situation and learn effective coping strategies for managing anxiety surrounding sexual intimacy. Remember, talking about emotions and vulnerabilities can be difficult but ultimately leads to greater understanding and growth in relationships."
+        ],
+        "sentences": [
+            "First step always is to do a medical rule out with your physician to determine there is not a physical reason for the erectile dysfunction."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 150,
+                    "prompt_tokens": 1464,
+                    "total_tokens": 1614
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.14516128740374618,
+                            "p": 0.08823529411764706,
+                            "r": 0.4090909090909091
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.14516128740374618,
+                            "p": 0.08823529411764706,
+                            "r": 0.4090909090909091
+                        }
+                    },
+                    "metor": 0.26,
+                    "bert": {
+                        "Precision": 0.839285671710968,
+                        "Recall": 0.8897979855537415,
+                        "F1": 0.863804042339325
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I struggle with depression as well as pretty intense mood swings, ranging from extreme sadness to extreme happiness. What can I do to stabilize my moods?",
+        "source_sentence": [
+            " Here are some additional ways that may help you manage your emotional fluctuations:\n\n1. Identify triggers: Keep track of situations, thoughts, or feelings that tend to bring on strong mood swings. This awareness can help you prepare mentally and emotionally for these moments.\n   \n2. Develop a plan: Create strategies to respond to triggering events before they occur. This might include reaching out to supportive people, engaging in calming activities, or using cognitive restructuring techniques to challenge negative thought patterns.\n    \n3. Stay connected: Maintaining relationships with loving and understanding individuals is crucial during times of emotional instability. Consider joining a support group or working closely with a therapist who specializes in mood disorders to build a network of caring people around you.\n      \n4. Practice mindfulness: Mindfulness meditation can help you become more aware of your thoughts, feelings, and physical sensations without judgment. This increased self-awareness can lead to greater emotional stability over time.\n         5. Take breaks when needed: Allow yourself permission to step away from demanding tasks and responsibilities when you need a rest. Overextending yourself can contribute to heightened emotional responses.\n            6. Seek therapy: Working with a trained mental health professional can be incredibly beneficial in managing mood fluctuations and learning new skills to better navigate through challenging emotions.\n            Remember, managing intense emotional shifts takes time and effort. Don't give up hope; every small step towards improving your emotional resilience brings you closer to finding peace and balance within yourself."
+        ],
+        "sentences": [
+            "It's fun to ride the roller coaster from time to time, but if you're on it too often, it becomes exhausting."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 318,
+                    "prompt_tokens": 744,
+                    "total_tokens": 1062
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.040201003297896595,
+                            "p": 0.022222222222222223,
+                            "r": 0.21052631578947367
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.040201003297896595,
+                            "p": 0.022222222222222223,
+                            "r": 0.21052631578947367
+                        }
+                    },
+                    "metor": 0.11,
+                    "bert": {
+                        "Precision": 0.769290030002594,
+                        "Recall": 0.8292841911315918,
+                        "F1": 0.7981613874435425
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    },
+    {
+        "question": "I self-harm, and I stop for awhile. Then when something bad happens, I go back to it. What can I do to stop for good?",
+        "source_sentence": [
+            " Additional Insights:\n         Self-harm is often used as a coping mechanism for dealing with intense emotions or stressors. The act itself can provide temporary relief, but it ultimately perpetuates a harmful cycle. Breaking free from self-harm requires understanding why you engage in the behavior and developing alternative, healthier methods to manage emotional pain. Identifying personal triggers and finding effective ways to address them is crucial in overcoming self-harm. Additionally, reaching out for social support from friends, family members, therapists, and peers can make all the difference in one’s recovery journey. Be kind to yourself during this process and remember that change takes time. Progress, even if small, should be celebrated as valuable steps toward healing."
+        ],
+        "sentences": [
+            "In a way, self-harm can present somewhat like an addiction in the sense that it becomes a primary coping strategy for intense emotional pain."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 152,
+                    "prompt_tokens": 581,
+                    "total_tokens": 733
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.19672130841574847,
+                            "p": 0.12121212121212122,
+                            "r": 0.5217391304347826
+                        },
+                        "rouge-2": {
+                            "f": 0.02941176189554525,
+                            "p": 0.017699115044247787,
+                            "r": 0.08695652173913043
+                        },
+                        "rouge-l": {
+                            "f": 0.19672130841574847,
+                            "p": 0.12121212121212122,
+                            "r": 0.5217391304347826
+                        }
+                    },
+                    "metor": 0.27,
+                    "bert": {
+                        "Precision": 0.8353968858718872,
+                        "Recall": 0.8845341205596924,
+                        "F1": 0.85926353931427
+                    }
+                }
+            }
+        ],
+        "filename": "20200325_counsel-chat-20240405-110603"
+    }
+]

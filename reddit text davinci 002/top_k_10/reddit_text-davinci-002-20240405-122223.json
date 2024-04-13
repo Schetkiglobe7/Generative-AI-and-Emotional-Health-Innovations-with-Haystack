@@ -1,0 +1,472 @@
+[
+    {
+        "question": "Me and the father of my child have been dating for three years now. We live together, but I feel like I'm doing this parenting thing alone.",
+        "source_sentence": [
+            "1. Acknowledge her feelings: She feels alone in raising her child despite living with him. Validate her emotion and let her know that it's natural to feel overwhelmed at times especially during parenthood.\n        2. Encourage open communication: Discuss ways they could improve communication and find solutions to alleviate her feeling of isolation in regards to parenting responsibilities.\n        3. Educate her: Share resources and information regarding co-parenting and its benefits for children (as mentioned in document). Help her understand that her actions today will impact her child's development and emotional well-being in the long term.\n        4. Empathize: Show understanding towards her struggles and offer support without judgment. Let her know that she doesn't have to deal with this issue alone and that seeking outside help or advice is always a healthy option.\n        5. Brainstorm: Work collaboratively with her to develop strategies and plans that will allow both parents to effectively contribute towards raising their child and fostering a strong family unit.\n\n\n        The information provided suggests that having a consistent presence in a child's life plays a crucial role in his or her overall development and well-being. Inconsistent contact or absence can lead to negative outcomes including increased likelihood of poverty, behavioral problems, substance abuse, criminal activity, and low self-esteem. To avoid causing harm and promote optimal growth, it is recommended that both parents establish a reliable visitation schedule and maintain open lines of communication. The fact that you recognize this concern and asked for guidance speaks highly of your commitment to being a positive influence in your son's life. Remember, no one is perfect and mistakes happen, but our intention and effort towards improving ourselves and nurturing our relationships ultimately define our journey as parents. Best wishes and congratulations on taking this step towards enhancing your bond with your son and strengthening your familial bonds."
+        ],
+        "sentences": [
+            "It sounds like you are feeling very alone and unsupported in your relationship and parenting responsibilities. It may be helpful to communicate your feelings to your partner."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 399,
+                    "prompt_tokens": 2393,
+                    "total_tokens": 2792
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.0772532171740132,
+                            "p": 0.04265402843601896,
+                            "r": 0.4090909090909091
+                        },
+                        "rouge-2": {
+                            "f": 0.01846153698953858,
+                            "p": 0.010033444816053512,
+                            "r": 0.11538461538461539
+                        },
+                        "rouge-l": {
+                            "f": 0.06866952618688874,
+                            "p": 0.037914691943127965,
+                            "r": 0.36363636363636365
+                        }
+                    },
+                    "metor": 0.24,
+                    "bert": {
+                        "Precision": 0.7919573187828064,
+                        "Recall": 0.8884608745574951,
+                        "F1": 0.8374381065368652
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "I can't seem to feel any emotion except anxiety and sadness. What's wrong with me?",
+        "source_sentence": [
+            "1. Practice self-care regularly: Make sure you prioritize taking care of yourself physically, emotionally, and mentally every day. This includes getting enough sleep, eating well, exercising, engaging in hobbies, and setting aside quiet time for relaxation and reflection.\n        2. Identify triggers: Try to identify situations, people, or things that trigger intense emotional reactions. Once identified, you can start working on strategies to manage them better.\n        3. Express your emotions: Find safe and healthy ways to express your emotions, such as writing in a journal, speaking with a trusted friend or family member, or seeing a therapist.\n        4. Learn coping skills: There are several evidence-based techniques for managing emotions, including deep breathing exercises, meditation, progressive muscle relaxation, and mindfulness practices. These skills can be learned through books, online resources, or therapy sessions.\n        5. Seek support: Connect with friends, family members, or support groups who understand what you're going through. Having a strong network of supportive relationships can make all the difference when dealing with complex emotions."
+        ],
+        "sentences": [
+            "It is possible that you are experiencing symptoms of a mental health condition such as depression or anxiety. It may be beneficial to seek the guidance of a mental health professional."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 228,
+                    "prompt_tokens": 2217,
+                    "total_tokens": 2445
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.13253011784003488,
+                            "p": 0.07857142857142857,
+                            "r": 0.4230769230769231
+                        },
+                        "rouge-2": {
+                            "f": 0.010471201760917204,
+                            "p": 0.006097560975609756,
+                            "r": 0.037037037037037035
+                        },
+                        "rouge-l": {
+                            "f": 0.10843373229786622,
+                            "p": 0.06428571428571428,
+                            "r": 0.34615384615384615
+                        }
+                    },
+                    "metor": 0.2,
+                    "bert": {
+                        "Precision": 0.7954806089401245,
+                        "Recall": 0.8576450943946838,
+                        "F1": 0.8253940343856812
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "Why do we allow one or few bad experiences when young to dictate how we behave and feel in the future?",
+        "source_sentence": [
+            " Based on the provided document, the reason we may allow past bad experiences to dictate our current feelings and behaviors could be attributed to several factors such as dwelling on those memories more than positive ones, comparing ourselves unfavorably to others, or having low self-esteem. These patterns are often rooted in our early life experiences and can manifest as negative thought patterns or \"schemas.\" While these schemas can be challenging to overcome, they are not irreversible. Psychotherapy provides effective strategies for changing negative thought patterns and increasing self-awareness through consciousness practices like yoga, meditation, and tai chi. Additionally, staying present by practicing mindfulness techniques and focusing on personal growth can help individuals break free from the grasp of their past. Overall, seeking professional guidance from a licensed therapist can offer valuable insight and practical tools to navigate these complex emotional issues."
+        ],
+        "sentences": [
+            "There are a few possible explanations for why early experiences can have a lasting impact, including the development of learned behaviors and the way our brains process and store memories."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 175,
+                    "prompt_tokens": 2954,
+                    "total_tokens": 3129
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.17142856831530617,
+                            "p": 0.10619469026548672,
+                            "r": 0.4444444444444444
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.15714285402959188,
+                            "p": 0.09734513274336283,
+                            "r": 0.4074074074074074
+                        }
+                    },
+                    "metor": 0.22,
+                    "bert": {
+                        "Precision": 0.8281515836715698,
+                        "Recall": 0.884080708026886,
+                        "F1": 0.8552026748657227
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "I have major depression, severe, PTSD, anxiety, and other mental health issues. I feel overwhelmed.",
+        "source_sentence": [
+            "------------------------------\n\nAnswer: Based on your statement of having major depression, severe PTSD, anxiety, and other mental health issues, it seems that you are dealing with complex emotional struggles which might leave you feeling incredibly overwhelmed. In such situations, seeking professional assistance from a qualified therapist or counselor could be highly beneficial as they can offer expert advice and coping strategies tailored specifically towards addressing your unique needs. Furthermore, connecting with trusted individuals in your network such as close friends or family members, talking openly about your feelings with them, and practicing relaxation techniques (such as taking deep breaths or engaging in mindfulness activities) can also serve as valuable tools in managing intense emotions and reducing overall stress levels. Remember that reaching out for help takes courage and strength, and acknowledging that you require additional support during challenging times does not equate to weakness but rather shows resilience and determination towards prioritizing self-care and healing. Additionally, keeping a journal to document thoughts and feelings and working collaboratively with a therapist towards setting and achieving meaningful goals can contribute significantly towards promoting a greater sense of control and personal growth during therapy sessions."
+        ],
+        "sentences": [
+            "It is understandable that you are feeling upset and overwhelmed given the number of mental health challenges you are facing. Seeking support from a mental health professional can be a crucial step."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 229,
+                    "prompt_tokens": 1073,
+                    "total_tokens": 1302
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.17045454285705064,
+                            "p": 0.10067114093959731,
+                            "r": 0.5555555555555556
+                        },
+                        "rouge-2": {
+                            "f": 0.03669724539979814,
+                            "p": 0.021164021164021163,
+                            "r": 0.13793103448275862
+                        },
+                        "rouge-l": {
+                            "f": 0.13636363376614155,
+                            "p": 0.08053691275167785,
+                            "r": 0.4444444444444444
+                        }
+                    },
+                    "metor": 0.24,
+                    "bert": {
+                        "Precision": 0.830377995967865,
+                        "Recall": 0.9111503958702087,
+                        "F1": 0.8688910603523254
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "Do I need a therapist?",
+        "source_sentence": [
+            " Based on the information provided in the document and my understanding as a therapy guide, yes, considering reaching out to a therapist could be a valuable next step for you as you work through some challenging emotions and experiences. Remember that finding the right therapist takes time and patience, but ultimately the effort put towards healing can lead to meaningful improvements in emotional wellbeing and overall quality of life. The resources mentioned in the text (Psychology Today and Counsel Chat) offer a convenient way to start exploring potential matches and setting up consultations with various providers in your area. Good luck!"
+        ],
+        "sentences": [
+            "There is no one-size-fits-all answer to this question. If you are struggling with your thoughts, feelings, or behaviors, it may be helpful to explore therapy."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 117,
+                    "prompt_tokens": 790,
+                    "total_tokens": 907
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11428571075918378,
+                            "p": 0.07407407407407407,
+                            "r": 0.25
+                        },
+                        "rouge-2": {
+                            "f": 0.0,
+                            "p": 0.0,
+                            "r": 0.0
+                        },
+                        "rouge-l": {
+                            "f": 0.07619047266394574,
+                            "p": 0.04938271604938271,
+                            "r": 0.16666666666666666
+                        }
+                    },
+                    "metor": 0.18,
+                    "bert": {
+                        "Precision": 0.8416614532470703,
+                        "Recall": 0.8735235929489136,
+                        "F1": 0.8572965860366821
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "How do I know if I'm actually depressed or not?",
+        "source_sentence": [
+            "1. Encourage self-care and reassure them that seeking professional help is a strength, not a weakness.\n        \"It takes courage and awareness to recognize when something isn’t right and take steps towards getting better. Remember that seeking professional help doesn’t mean that there's anything wrong with you - it means that you value yourself and want to improve your quality of life.\"\n\n        2. Validate their feelings and offer understanding and compassion:\n        \"I understand that this must feel incredibly challenging and confusing for you. Please believe me when I say that your feelings and struggles matter and deserve attention and respect.\"\n\n        3. Help identify potential triggers and negative thought patterns:\n        \"Have you noticed certain situations or thoughts that tend to trigger difficult emotions or exacerbate your low mood? Identifying those triggers and exploring ways to manage them can be helpful in reducing overall symptoms of depression\"\n\n        4. Discuss healthy coping mechanisms and stress management techniques:\n        \"What are some activities or practices that bring joy or relaxation into your daily routine? Engaging in regular physical activity, practicing mindfulness meditation, connecting with supportive relationships, and setting small goals can be powerful tools in managing depression\"\n\n        5. Emphasize the importance of taking care of both physical and emotional health:\n        \"Depression often involves changes in appetite and energy levels which impact our physical health. Focusing on nurturing ourselves with nutritious food and ensuring adequate restorative sleep can contribute significantly to overall healing and resilience\". \n\n        6. Explore resources available for additional support:\n        \"There are many valuable resources available that might be beneficial in addressing depression. These could include joining a local or online support group, reading relevant literature, utilizing apps designed to promote positive thinking and behavior change, and speaking with trusted loved ones about your experiences\". \n\n        7. Reiterate that recovery and growth are possible:\n        \"Recovery from depression looks different for everyone and requires effort and patience. The journey towards healing and self-improvement can be rewarding and fulfilling, allowing individuals to regain control over their lives and develop newfound strengths\". \n\n       8. Provide encouragement and reinforcement:\n       \"Remember that every step forward counts and no progress made today means that tomorrow holds endless possibilities for growth and improvement\"."
+        ],
+        "sentences": [
+            "There is no one answer to this question, as everyone's experience with depression can vary. A mental health professional can provide a diagnosis and help you understand your feelings."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 496,
+                    "prompt_tokens": 1549,
+                    "total_tokens": 2045
+                },
+                "evaluations": {
+                    "blue_score": 0.07,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.11034482584161713,
+                            "p": 0.061068702290076333,
+                            "r": 0.5714285714285714
+                        },
+                        "rouge-2": {
+                            "f": 0.005291003919263534,
+                            "p": 0.002857142857142857,
+                            "r": 0.03571428571428571
+                        },
+                        "rouge-l": {
+                            "f": 0.1034482741174792,
+                            "p": 0.05725190839694656,
+                            "r": 0.5357142857142857
+                        }
+                    },
+                    "metor": 0.19,
+                    "bert": {
+                        "Precision": 0.7583848834037781,
+                        "Recall": 0.8717640042304993,
+                        "F1": 0.8111315965652466
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "Should I tell people about me going to the ER for suicidal thoughts?",
+        "source_sentence": [
+            " Based on the information provided in the document and my understanding of the situation, here are some potential ways to approach answering the user's question:\n\n         1) Encouraging the user to share their feelings with trusted individuals: The user has expressed concern about sharing their recent suicide attempts and history with others due to fear of judgment or negative reactions. However, it's essential to note that having such conversations with trusted individuals, such as friends, family members, or mental health professionals, can lead to positive outcomes. Sharing one's struggles with suicide can often lead to increased understanding, empathy, and emotional support from those around us. Furthermore, speaking openly about our experiences with suicide can break down stigma surrounding this topic and encourage others to do the same.\n\n          2) Discussing the importance of seeking help: When someone feels suicidal, reaching out for help from trained professionals or trusted confidants is crucial. The National Suicide Prevention Lifeline (800-273-TALK/8255) provides free and confidential crisis counseling services 24 hours a day, seven days a week. Speaking with someone at this helpline can offer valuable insight and guidance during a crisis and help prevent self-harm or suicide attempts. Additionally, working with a mental health provider or therapist regularly can help users develop coping skills and strategies for managing difficult emotions and impulses related to suicide.\n\n          3) Providing reassurance regarding the reaction of others: Many people worry that sharing their suicidal thoughts with others will negatively impact relationships or cause unwanted judgement or criticism. While every relationship dynamic is unique, research suggests that most people respond with compassion and understanding when confronted with someone expressing suicidal thoughts. A study published in Social Psychiatry and Psychoanalysis found that only a small percentage (around 6%) of participants reacted negatively or dismissively towards those disclosing suicide threats (Lindner et al., 2009). Emphasizing that most individuals will likely react sympathetically and offering encouragement can help alleviate fears associated with opening up about suicidal ideation.\n\n          4) Exploring alternative ways to communicate: For those concerned about verbal communication or uncomfortable with addressing sensitive topics directly, other means of conveying distress can include writing letters or journal entries, sending emails or texts"
+        ],
+        "sentences": [
+            "If you are struggling with suicidal thoughts, it is important to reach out for help. Whether or not you choose to share this with others is a personal decision, but do not hesitate to seek support."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 2306,
+                    "total_tokens": 2806
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.10752687980113311,
+                            "p": 0.060240963855421686,
+                            "r": 0.5
+                        },
+                        "rouge-2": {
+                            "f": 0.02105262990650983,
+                            "p": 0.011594202898550725,
+                            "r": 0.11428571428571428
+                        },
+                        "rouge-l": {
+                            "f": 0.0931899622384091,
+                            "p": 0.05220883534136546,
+                            "r": 0.43333333333333335
+                        }
+                    },
+                    "metor": 0.21,
+                    "bert": {
+                        "Precision": 0.7824270725250244,
+                        "Recall": 0.8752314448356628,
+                        "F1": 0.8262314200401306
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "I feel like I have to be promiscuous in order to feel wanted and loved. Is this normal?",
+        "source_sentence": [
+            " Insights/Suggestions:\n        Remember that everyone has different needs and desires when it comes to relationships and sex. What might work for one person doesn't necessarily mean it's right for you. The key is finding what works best for you and making sure that it aligns with your values and beliefs. \n        Try focusing on building deeper emotional connections with people instead of relying solely on physical intimacy to feel wanted and loved. This can lead to more fulfilling and sustainable relationships. \n        Consider seeking professional help if these feelings persist and begin to negatively impact other areas of your life. A therapist can help you explore the underlying causes of these feelings and develop strategies for dealing with them in a healthy way. \n        Remember that everyone is worthy of love and acceptance regardless of how many partners they have had in the past or present. Focus on developing a strong sense of self-worth and learning to value yourself as an individual rather than basing your worth on external factors such as relationships or sexual encounters."
+        ],
+        "sentences": [
+            "There is no 'right' or 'wrong' answer to this question. Feelings of wanting to feel wanted and loved are common, but if these feelings are causing distress, it may be helpful to speak to a therapist."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 213,
+                    "prompt_tokens": 606,
+                    "total_tokens": 819
+                },
+                "evaluations": {
+                    "blue_score": 0.1,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.17834394579901827,
+                            "p": 0.112,
+                            "r": 0.4375
+                        },
+                        "rouge-2": {
+                            "f": 0.05940593772914434,
+                            "p": 0.03592814371257485,
+                            "r": 0.17142857142857143
+                        },
+                        "rouge-l": {
+                            "f": 0.16560509229583353,
+                            "p": 0.104,
+                            "r": 0.40625
+                        }
+                    },
+                    "metor": 0.27,
+                    "bert": {
+                        "Precision": 0.8126310110092163,
+                        "Recall": 0.8763931393623352,
+                        "F1": 0.8433085083961487
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "I feel lazy and numb. I have no interest in things I used to enjoy. What's happening to me?",
+        "source_sentence": [
+            "1. Based on the information provided in the conversation history, the user seems to be experiencing symptoms of depression such as lack of interest in previously enjoyable activities and feeling numb/lazy.\n2. The therapy guide suggests that they speak with a medical professional or mental health provider to receive a proper diagnosis and explore potential treatments.\n3. She encourages self-care and connecting with activities or people that bring joy, recognizing that this period may be temporary but valuable opportunities for introspection and growth.\n4. The therapy guide shares a technique for prioritizing self-care and identifying personal wants and needs amidst daily responsibilities.\n5. Alternatively, she proposes that the perceived 'laziness' might be a manifestation of underlying stress and recommends exploring its root causes.\n6. Through open communication and reflection, individuals can better understand themselves and take steps toward improving both their emotional wellbeing and overall life satisfaction."
+        ],
+        "sentences": [
+            "You may be experiencing depression or a loss of interest in activities you once enjoyed. It can be helpful to talk to a mental health professional about how you are feeling."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 194,
+                    "prompt_tokens": 1766,
+                    "total_tokens": 1960
+                },
+                "evaluations": {
+                    "blue_score": 0.09,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.2253521095963103,
+                            "p": 0.1391304347826087,
+                            "r": 0.5925925925925926
+                        },
+                        "rouge-2": {
+                            "f": 0.05780346534130791,
+                            "p": 0.03496503496503497,
+                            "r": 0.16666666666666666
+                        },
+                        "rouge-l": {
+                            "f": 0.21126760255405674,
+                            "p": 0.13043478260869565,
+                            "r": 0.5555555555555556
+                        }
+                    },
+                    "metor": 0.35,
+                    "bert": {
+                        "Precision": 0.8430611491203308,
+                        "Recall": 0.9195652008056641,
+                        "F1": 0.8796529173851013
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    },
+    {
+        "question": "I can't understand my brain at all, I need help.",
+        "source_sentence": [
+            " Based on the information provided in the document, it appears that the person asking for advice is experiencing confusion about their thoughts and feelings. They mention that they cannot understand their brain and are seeking help. The document provides several potential explanations for the source of these confusing thoughts and suggests ways to approach understanding them. These suggestions include allowing oneself to explore the thoughts with curiosity and without judgment, asking where they come from and what feelings one has about them, and considering whether they might be related to explorations of sexuality and gender. Additionally, the author recommends seeing a counselor for assistance in working through the confusion. Overall, the tone of the document is supportive and reassuring, acknowledging that this is a difficult and confusing time for the person seeking advice but offering guidance and encouragement. From a therapy standpoint, it seems important to validate the person's experiences and struggles while helping them develop coping strategies and encouraging them to seek outside support if needed."
+        ],
+        "sentences": [
+            "There could be many reasons why you are struggling to understand your thoughts and feelings. A mental health professional can help you navigate these challenges."
+        ],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 196,
+                    "prompt_tokens": 2410,
+                    "total_tokens": 2606
+                },
+                "evaluations": {
+                    "blue_score": 0.08,
+                    "rouge_score": {
+                        "rouge-1": {
+                            "f": 0.13138685842399705,
+                            "p": 0.07964601769911504,
+                            "r": 0.375
+                        },
+                        "rouge-2": {
+                            "f": 0.02139037209414076,
+                            "p": 0.012269938650306749,
+                            "r": 0.08333333333333333
+                        },
+                        "rouge-l": {
+                            "f": 0.1021897781320263,
+                            "p": 0.061946902654867256,
+                            "r": 0.2916666666666667
+                        }
+                    },
+                    "metor": 0.16,
+                    "bert": {
+                        "Precision": 0.8440997004508972,
+                        "Recall": 0.8903162479400635,
+                        "F1": 0.8665921688079834
+                    }
+                }
+            }
+        ],
+        "filename": "reddit_text-davinci-002-20240405-122223"
+    }
+]
