@@ -1,0 +1,110 @@
+[
+    {
+        "question": "How does regular physical activity contribute to emotional regulation?",
+        "source_sentence": [
+            " To sum up, incorporating regular physical activity into your routine can positively impact emotional regulation by helping reduce stress and anxiety, improving sleep quality, boosting mood and self-esteem, and providing a healthy distraction from negative thoughts and feelings. However, it's essential to remember that exercise alone may not completely address complex mental health issues; seeking additional support such as therapy and/or medication under the supervision of healthcare professionals should be considered when necessary. Incorporating relaxation techniques like meditation, deep breathing, and yoga into daily life can further enhance emotional resilience."
+        ],
+        "sentences": [],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 119,
+                    "prompt_tokens": 734,
+                    "total_tokens": 853
+                }
+            }
+        ]
+    },
+    {
+        "question": "What are some accessible forms of exercise for those new to physical activity?",
+        "source_sentence": [
+            "10 minute chair workout video links below :  \n        https://www.youtube.com/watch?v=XMfW5Jp6_mU\n        https://www.youtube.com/watch?v=-K7zcYjO9Zw\n        https://www.youtube.com/watch?v=3l82QBhGbkE\n\nFor individuals just starting out on their fitness journeys, low impact options are often the most accessible choices. Consider exploring activities such as brisk walking, swimming, cycling, yoga, tai chi, or dancing. These alternatives generally require less equipment and offer opportunities to build strength and flexibility while minimizing strain on joints. Remember, even small steps toward increased movement can make a significant difference in both your physical and mental well-being. It is essential to consult healthcare professionals before embarking on any new fitness routine, especially for individuals with pre-existing conditions or concerns regarding potential injuries."
+        ],
+        "sentences": [],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 207,
+                    "prompt_tokens": 616,
+                    "total_tokens": 823
+                }
+            }
+        ]
+    },
+    {
+        "question": "How can exercise routines be tailored to individual needs and preferences?",
+        "source_sentence": [
+            "1. Identify your goals: Determine what motivates you and sets the stage for success (i.e., feeling energized, relieving stress).\n          2. Choose activities suitable for your age, abilities, and interests: Involve friends/family members, join a group class, or explore solo options such as walking, jogging, cycling, gardening, swimming, yoga, or dancing.\n          3. Set realistic expectations: Begin with smaller goals and build upon achievements as strength and stamina grow over time.\n          4. Schedule and commit: Consistent practice leads to long-term habit formation and maximum benefit.\n          5. Make modifications: Adapt activities as necessary due to changing circumstances or limitations.\n          6. Seek advice: Consult with professionals or trusted sources to develop a safe and effective approach suited to unique conditions and preferences.\n          7. Embrace flexibility: Allow room for spontaneity and unexpected changes without letting those derail your commitment.\n          8. Track progress: Monitor milestones achieved and maintain a log to celebrate successes and identify potential obstacles.\n         9. Stay engaged: Cultivate interest and curiosity in new ways of moving and exploring physical activities.\n           10. Connect with others: Foster relationships within supportive communities dedicated to active living and mental health improvement."
+        ],
+        "sentences": [],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 278,
+                    "prompt_tokens": 1148,
+                    "total_tokens": 1426
+                }
+            }
+        ]
+    },
+    {
+        "question": "What is the connection between physical fitness and psychological well-being?",
+        "source_sentence": [
+            " I am always here to listen and offer support . Remember that taking small steps towards better self -care each day will add up and make a difference in both your mind and body . Please reach out if you need any additional information or resources . Stay strong and keep pushing forward! 💛🧘‍♀️💪🏽 #mentalhealthawareness #physicalactivity #selfcare #wellnessjourney #therapydoc #compassion #kindness #mindbodyconnection #endorphinrelease #stayfocusedontheprogressnottheperfection #yougotthis #letsdothis #beyourbestversion #hopeisahighwaytohappiness #nevergivup #keepgoing #takeitonebitatattime #believeinyourselffirst #positivitywins #innerstrength #motivationmonday #fridayfeeling #weekendvibes #livejoyfully #livelifeabundantly #cherishlife #gratefulheart #goodvibrations #mindfulnessmatters #calmandsimple #choosehappyness #everythingwillbefine #lovethyselffirst #hugsoflove #smilemore #namaste #yogamovesme #mindfulmoment #meditationmonday #breathwork #lettingsgo #relaxationtechniques #practiceaffirmations #setboundaries #reclaimcontrolofyourlifenow #empowerment #personalgrowth #confidencebuilder #innerpeace #mindfulliving #happinessexplorers #findmyspark #shineonyourown #uniquelyyou #beautifulyou #encouragement #uplift #supporteachother #kindwords #makeadifference #sparkchange #makingmemories #livepassionately #createabettertomorrow #taketimeforthesELF #selfreflection #mindfulnessmatters #manifestationmagnet #creativityflow #perspective #consciousliving #happyplace #happylifevisions #dreamcatcher #mindfulmovement #seizeopportunities #laughteriscontagious #kindredspirits #friendshipgoals #familygoals #livingoutloud #capturinglife #capturememoments #instagramworthy #"
+        ],
+        "sentences": [],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "length",
+                "usage": {
+                    "completion_tokens": 500,
+                    "prompt_tokens": 1107,
+                    "total_tokens": 1607
+                }
+            }
+        ]
+    },
+    {
+        "question": "How can group sports and activities enhance social connections and mental health?",
+        "source_sentence": [
+            " Group activities such as joining a sport team or taking a dance class offer numerous benefits when it comes to enhancing social connections and promoting overall mental health. These activities allow individuals to meet new people and build meaningful relationships while engaging in a common interest or goal. The shared experience fosters a sense of camaraderie and belonging, helping participants feel less isolated and alone. Furthermore, staying active in a group setting encourages healthy competition and supports accountability towards achieving both personal and collective goals. Overall, participating in group activities provides opportunities for growth and development both socially and mentally."
+        ],
+        "sentences": [],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 117,
+                    "prompt_tokens": 1381,
+                    "total_tokens": 1498
+                }
+            }
+        ]
+    },
+    {
+        "question": "What are the barriers to regular exercise and how can they be overcome?",
+        "source_sentence": [
+            " Barriers to Regular Exercise and How to Overcome Them:\n           1. Lack of motivation or energy:\n               * Set realistic and achievable goals\n               * Find enjoyable forms of physical activity (dancing, cycling, swimming)\n               * Incorporate movement into daily routines (use stairs instead of elevators, take frequent walks outside)\n               * Reward yourself after reaching milestones\n\n            2. Limited time or schedule conflicts:\n               * Prioritize exercising at least three times per week\n               * Break up longer sessions into shorter ones throughout the day\n               * Consider doing short bursts of activity during commercial breaks while watching TV\n\n            3. Financial constraints:\n               * Look for affordable options like using public parks, local community centers, or free online workouts\n               * Share costs with friends, family members, or coworkers\n\n            4. Health issues:\n               * Consult with healthcare professionals before starting any new workout regimen\n               * Explore low impact activities such as walking, swimming, or chair exercises\n\n            5. Fear of judgment:\n               * Join group classes or find workout partners who share similar interests and goals\n               * Remember that everyone struggles at first, focus on progress rather than perfection\n\nBy taking small steps to address these potential obstacles and prioritizing regular exercise, individuals will reap significant benefits both physically and mentally."
+        ],
+        "sentences": [],
+        "meta": [
+            {
+                "model": "mistralai/Mistral-7B-Instruct-v0.2",
+                "finish_reason": "eos_token",
+                "usage": {
+                    "completion_tokens": 298,
+                    "prompt_tokens": 702,
+                    "total_tokens": 1000
+                }
+            }
+        ]
+    }
+]
